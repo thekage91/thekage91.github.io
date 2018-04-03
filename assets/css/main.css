@@ -350,6 +350,47 @@ th, td {
   text-align: left;
 }
 
+/* 
+  Forms
+
+*/
+
+form{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+form legend{
+  font-size: 15px;
+  width: 50%;
+  margin-bottom: 5px;
+  font-weight: 100;
+}
+
+form .form-control{
+  padding: 8px;
+  margin-bottom: 5px;
+  width: 40%;
+  height: 70%;
+  font-size: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+
+}
+
+form button{
+    text-decoration: underline;
+    color: #333;
+    background-color: transparent;
+    border: none;
+    font-family: consolas,monaco,courier,"courier new", fixed-width;
+    font-size: 18px;
+
+}
+
 /*
   Social media icons
 */

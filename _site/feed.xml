@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-03T19:25:44+01:00</updated><id>http://localhost:4000/</id><title type="html">Dailyminute</title><subtitle>daily (si spera) 1 minute blog (sicuramente)</subtitle><author><name>Davide</name></author><entry><title type="html">Un blog da un minuto</title><link href="http://localhost:4000/journal/about-the-blog.html" rel="alternate" type="text/html" title="Un blog da un minuto" /><published>2018-04-03T00:00:00+01:00</published><updated>2018-04-03T00:00:00+01:00</updated><id>http://localhost:4000/journal/about-the-blog</id><content type="html" xml:base="http://localhost:4000/journal/about-the-blog.html">&lt;p&gt;La difficoltà nel fare una cosa sta nell’iniziarla, per questo ho deciso di iniziare un blog che sicuramente fallierà essendo questa la &lt;strong&gt;TERZA VOLTA&lt;/strong&gt; che provo ad avviarne uno, ma la speranza è l’ultima a morire.&lt;/p&gt;
+
+&lt;p&gt;Visto che amo complicarmi la vita, l’obiettivo sarà:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Pubblicare &lt;strong&gt;una volta al giorno&lt;/strong&gt; post con un tempo massimo di &lt;strong&gt;lettura di un minuto&lt;/strong&gt; (cavolo non mi dire che non hai un minuto per leggere i miei prossimi post favolosi!), da qui &lt;strong&gt;dailyminute&lt;/strong&gt;. &lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Si, una pazzia!&lt;/p&gt;
+
+&lt;h1 id=&quot;di-cosa-parlerò&quot;&gt;Di cosa parlerò?&lt;/h1&gt;
+&lt;p&gt;Non lo so!&lt;/p&gt;
+
+&lt;p&gt;Ho deciso di iniziare senza pormi un linea editoriale specifica da seguire, altrimenti so già come andrà a finire!&lt;/p&gt;
+
+&lt;p&gt;Quello che posso dirti però è che troverai molte cose interessanti (🤥🤥🤥).&lt;/p&gt;
+
+&lt;h1 id=&quot;i-topic-che-tratterò&quot;&gt;I topic che tratterò&lt;/h1&gt;
+&lt;p&gt;Non lo so!&lt;/p&gt;
+
+&lt;p&gt;Utilizzerò questo spazio per parlare di:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Idee&lt;/li&gt;
+  &lt;li&gt;Esperienze&lt;/li&gt;
+  &lt;li&gt;Sfide&lt;/li&gt;
+  &lt;li&gt;Qualunque cosa che mi passa per la testa&lt;/li&gt;
+  &lt;li&gt;Progetti che sto sviluppando&lt;/li&gt;
+  &lt;li&gt;Progetti che vorrei sviluppare&lt;/li&gt;
+  &lt;li&gt;Riflessioni sul mondo e sulla vita&lt;/li&gt;
+  &lt;li&gt;Molto altro….&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tutto prenderà forma durante il cammino.&lt;/p&gt;
+
+&lt;h1 id=&quot;la-verità&quot;&gt;La verità&lt;/h1&gt;
+&lt;p&gt;La verità è che ti devi fidare e dedicare un minuto della tua giornata per visitare questo blog e vedere se qualcosa è cambiato, magari scoprirai qualcosa di interessante investendo un solo minuto della tua giornata!&lt;/p&gt;
+
+&lt;p&gt;Meglio essere sinceri che dare false speranze, così sia io che tu coglieremo il massimo da questo blog.&lt;/p&gt;
+
+&lt;p&gt;Se non avrai un minuto libero, ti capisco, non è facile.&lt;/p&gt;
+
+&lt;p&gt;Per il momento è tutto, alla prossima!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;unultima-cosa--&quot;&gt;Un’ultima cosa. ✋ ✋&lt;/h2&gt;
+
+&lt;p&gt;Se proprio vuoi farti del male (ma non te lo consiglio), &lt;strong&gt;iscriviti alla mia Newsletter&lt;/strong&gt; (io le odio più di te!)&lt;/p&gt;
+
+&lt;p&gt;Se mi ricorderò di inviarle, riceverai ogni giorno alla stessa ora (non so ancora a che ora) una piccolissima email con il titolo del nuovo post che potrai leggere, se vorrai, sul blog.&lt;/p&gt;
+
+&lt;form action=&quot;https://sprintstudio.us11.list-manage.com/subscribe/post?u=baa6a96ac00514e2d994c55e2&amp;amp;id=10b14f6753&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate&quot; target=&quot;_blank&quot; validate=&quot;&quot;&gt;
+	&lt;legend&gt;Iscriviti nella Newsletter&lt;/legend&gt;
+	&lt;div class=&quot;form-group&quot;&gt;
+		&lt;input type=&quot;text&quot; name=&quot;FNAME&quot; class=&quot;form-control&quot; id=&quot;mce-FNAME&quot; placeholder=&quot;Il tuo Nome&quot; required=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;form-group&quot;&gt;
+		&lt;input type=&quot;email&quot; name=&quot;EMAIL&quot; class=&quot;form-control required email&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;La tua email&quot; required=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;form-group&quot;&gt;
+		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
+	&lt;/div&gt;
+&lt;/form&gt;</content><author><name>Davide</name></author><category term="documentation" /><category term="sample" /><summary type="html">La difficoltà nel fare una cosa sta nell’iniziarla, per questo ho deciso di iniziare un blog che sicuramente fallierà essendo questa la TERZA VOLTA che provo ad avviarne uno, ma la speranza è l’ultima a morire.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/time.jpg" /></entry></feed>
