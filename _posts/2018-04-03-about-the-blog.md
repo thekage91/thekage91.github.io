@@ -7,10 +7,10 @@ tags: [documentation,sample]
 image: time.jpg
 ---
 
-La difficoltà nel fare una cosa sta nell'iniziarla, per questo ho deciso di iniziare un blog che sicuramente fallierà essendo questa la **TERZA VOLTA** che provo ad avviarne uno, ma la speranza è l'ultima a morire. 
+La difficoltà nel fare una cosa sta nell'iniziarla, per questo ho deciso di iniziare un blog che sicuramente fallirà essendo questa la **TERZA VOLTA** che provo ad avviarne uno, ma la speranza è l'ultima a morire. 
 
 Visto che amo complicarmi la vita, l'obiettivo sarà: 
->Pubblicare **una volta al giorno** post con un tempo massimo di **lettura di un minuto** (cavolo non mi dire che non hai un minuto per leggere i miei prossimi post favolosi!), da qui **dailyminute**. <br>
+>Pubblicare **una volta al giorno** post con un tempo massimo di lettura **di un minuto** (cavolo non mi dire che non hai un minuto per leggere i miei prossimi post favolosi!), da qui **dailyminute**. <br>
 
 Si, una pazzia!
 
@@ -29,7 +29,7 @@ Utilizzerò questo spazio per parlare di:
 - Idee 
 - Esperienze
 - Sfide 
-- Qualunque cosa che mi passa per la testa
+- Qualunque cosa che mi passi per la testa
 - Progetti che sto sviluppando 
 - Progetti che vorrei sviluppare 
 - Riflessioni sul mondo e sulla vita 
