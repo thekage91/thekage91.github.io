@@ -17,8 +17,8 @@
 </description>
 				
 				<pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/about-the-blog.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/about-the-blog.html</guid>
+				<link>/journal/about-the-blog.html</link>
+				<guid isPermaLink="true">/journal/about-the-blog.html</guid>
 			</item>
 		
 	</channel>
