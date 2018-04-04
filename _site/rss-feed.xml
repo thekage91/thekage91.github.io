@@ -7,6 +7,20 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>No fear amico mio</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;h3 id=&quot;coming-soon-today&quot;&gt;Coming soon TODAY!&lt;/h3&gt;
+</description>
+				
+				<pubDate>Wed, 04 Apr 2018 00:00:00 +0100</pubDate>
+				<link>/journal/no-fear-amico-mio.html</link>
+				<guid isPermaLink="true">/journal/no-fear-amico-mio.html</guid>
+			</item>
+		
+			<item>
 				<title>Un blog da un minuto</title>
 				
 					<dc:creator>Davide</dc:creator>
