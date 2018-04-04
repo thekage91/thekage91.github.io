@@ -7,12 +7,13 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>No fear amico mio</title>
+				<title>No fear zi</title>
 				
 					<dc:creator>Davide</dc:creator>
 				
 				
-					<description>&lt;h3 id=&quot;coming-soon-today&quot;&gt;Coming soon TODAY!&lt;/h3&gt;
+					<description>&lt;p&gt;Nel momento in cui ti trovi nella situazione di dover fare una scelta importante, &lt;strong&gt;hai paura&lt;/strong&gt;, diciamoci la verità, è così.&lt;/p&gt;
+
 </description>
 				
 				<pubDate>Wed, 04 Apr 2018 00:00:00 +0100</pubDate>
