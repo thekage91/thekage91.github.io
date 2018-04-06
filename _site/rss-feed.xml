@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Se non corri sei un perdente</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Una cosa che non ho mai capito nel mondo è la fretta, poi a Londra, capirai!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 06 Apr 2018 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</guid>
+			</item>
+		
+			<item>
 				<title>5 siti utilissimi per farsi ispirare</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -17,8 +32,8 @@
 </description>
 				
 				<pubDate>Thu, 05 Apr 2018 00:00:00 +0100</pubDate>
-				<link>/journal/siti-dove-farsi-ispirare.html</link>
-				<guid isPermaLink="true">/journal/siti-dove-farsi-ispirare.html</guid>
+				<link>http://localhost:4000/journal/siti-dove-farsi-ispirare.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/siti-dove-farsi-ispirare.html</guid>
 			</item>
 		
 			<item>
@@ -32,8 +47,8 @@
 </description>
 				
 				<pubDate>Wed, 04 Apr 2018 00:00:00 +0100</pubDate>
-				<link>/journal/no-fear-zi.html</link>
-				<guid isPermaLink="true">/journal/no-fear-zi.html</guid>
+				<link>http://localhost:4000/journal/no-fear-zi.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/no-fear-zi.html</guid>
 			</item>
 		
 			<item>
@@ -47,8 +62,8 @@
 </description>
 				
 				<pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
-				<link>/journal/about-the-blog.html</link>
-				<guid isPermaLink="true">/journal/about-the-blog.html</guid>
+				<link>http://localhost:4000/journal/about-the-blog.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/about-the-blog.html</guid>
 			</item>
 		
 	</channel>
