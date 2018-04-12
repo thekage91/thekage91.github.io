@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finisce qui la mia esperienza a Londra"
+title: "Finisce qui la mia esperienza a Londra (per ora)"
 author: "Davide"
 categories: journal
 tags: [life]
