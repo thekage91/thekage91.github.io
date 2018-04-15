@@ -4,7 +4,7 @@ title: Future post
 ---
 
 <ul class="posts">
-    <li itemscope>
+    <li itemscope  hidden>
       <a href="">Il nostro goal</a>
       <p class="post-date">
         <i class="fa fa-calendar" aria-hidden="true"></i>
