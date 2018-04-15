@@ -64,6 +64,11 @@ img {
   border-radius: 5px;
 }
 
+figcaption{
+  font-size: 12px;
+  text-align: center;
+}
+
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
