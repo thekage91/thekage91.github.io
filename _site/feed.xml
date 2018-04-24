@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-15T19:08:33+02:00</updated><id>/</id><title type="html">Dailyminute</title><subtitle>daily (si spera) 1 minute blog (sicuramente)</subtitle><author><name>Davide</name></author><entry><title type="html">Il mio goal</title><link href="/journal/il-mio-goal.html" rel="alternate" type="text/html" title="Il mio goal" /><published>2018-04-13T00:00:00+02:00</published><updated>2018-04-13T00:00:00+02:00</updated><id>/journal/il-mio-goal</id><content type="html" xml:base="/journal/il-mio-goal.html">&lt;p&gt;L’esperienza a Londra mi ha insegnato tantissime cose, la cosa più importante è: &lt;strong&gt;farmi capire cosa voglio!&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-24T10:58:18+02:00</updated><id>/</id><title type="html">Dailyminute</title><subtitle>daily (si spera) 1 minute blog (sicuramente)</subtitle><author><name>Davide</name></author><entry><title type="html">Side project #1: Migliorare il proprio inglese</title><link href="/journal/side-project-1-migliorare-inglese.html" rel="alternate" type="text/html" title="Side project #1: Migliorare il proprio inglese" /><published>2018-04-16T00:00:00+02:00</published><updated>2018-04-16T00:00:00+02:00</updated><id>/journal/side-project-1-migliorare-inglese</id><content type="html" xml:base="/journal/side-project-1-migliorare-inglese.html">&lt;p&gt;Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.&lt;/p&gt;
+
+&lt;p&gt;Trovandosi a Londra, ci sono molte occasioni per parlare con altre persone, ad esempio ci sono molti meetup gratuiti incentrati proprio sullo speaking che ti spingono a dover parlare con altre persone che non hai mai visto prima.&lt;/p&gt;
+
+&lt;p&gt;Devo dire che inizialmente è molto imbarazzante, però alla fine è una bellissima esperienza e molto formativa.&lt;/p&gt;
+
+&lt;h2 id=&quot;il-problema&quot;&gt;Il problema&lt;/h2&gt;
+&lt;p&gt;Il problema è che questi eventi vengono organizzati localmente e non tutti purtroppo hanno possibilità di partecipare, specialmente chi, come me, si trova abbastanza lontano da Londra.&lt;/p&gt;
+
+&lt;p&gt;Volendo migliorare il mio inglese ho deciso di provare a risolvere il problema della distanza sviluppando un servizio che possa permettermi di entrare in contatto con altre persone con le quali parlare in inglese durante una call online.&lt;/p&gt;
+
+&lt;p&gt;Questo servizio si rivolgerà a tutte le persone che, trovandosi lontano, sentono l’esigenza di voler migliorare il proprio inglese parlando con altre persone che hanno lo stesso obiettivo.&lt;/p&gt;
+
+&lt;h2 id=&quot;roadmap&quot;&gt;Roadmap&lt;/h2&gt;
+&lt;p&gt;Una versione molto minimale della roadmap è la seguente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sviluppo MVP&lt;/li&gt;
+  &lt;li&gt;Validazione del problema&lt;/li&gt;
+  &lt;li&gt;Acquisizione primi beta tester&lt;/li&gt;
+  &lt;li&gt;Creazione versione 1 del servizio&lt;/li&gt;
+  &lt;li&gt;Testing&lt;/li&gt;
+  &lt;li&gt;Iterazione&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sarebbe il massimo per me arrivare allo sviluppo della versione 1 senza scrivere una riga di codice così da concentrarmi esclusivamente sulla validazione del servizio e delle sue funzionalità. 🙌🏻&lt;/p&gt;
+
+&lt;p&gt;Nei prossimi articoli parlerò dell’evoluzione della roadmap andando a spiegare ogni passaggio.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;vuoi-ricevere-aggiornamenti-sui-miei-progressi&quot;&gt;Vuoi ricevere aggiornamenti sui miei progressi?&lt;/h3&gt;
+
+&lt;form action=&quot;https://sprintstudio.us11.list-manage.com/subscribe/post?u=baa6a96ac00514e2d994c55e2&amp;amp;id=10b14f6753&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate&quot; target=&quot;_blank&quot; validate=&quot;&quot;&gt;
+	&lt;legend&gt;Iscriviti nella Newsletter&lt;/legend&gt;
+	&lt;div class=&quot;form-group&quot;&gt;
+		&lt;input type=&quot;text&quot; name=&quot;FNAME&quot; class=&quot;form-control&quot; id=&quot;mce-FNAME&quot; placeholder=&quot;Il tuo Nome&quot; required=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;form-group&quot;&gt;
+		&lt;input type=&quot;email&quot; name=&quot;EMAIL&quot; class=&quot;form-control required email&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;La tua email&quot; required=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;form-group&quot;&gt;
+		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
+	&lt;/div&gt;
+&lt;/form&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/speak.jpg" /></entry><entry><title type="html">Il mio goal</title><link href="/journal/il-mio-goal.html" rel="alternate" type="text/html" title="Il mio goal" /><published>2018-04-13T00:00:00+02:00</published><updated>2018-04-13T00:00:00+02:00</updated><id>/journal/il-mio-goal</id><content type="html" xml:base="/journal/il-mio-goal.html">&lt;p&gt;L’esperienza a Londra mi ha insegnato tantissime cose, la cosa più importante è: &lt;strong&gt;farmi capire cosa voglio!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Siamo sempre nella situazione di dover far scelte e trovare compromessi per avvicinarci ad una situazione che più ci rende soddisfatti.&lt;/p&gt;
 

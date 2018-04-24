@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Side project #1: Migliorare il proprio inglese</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 16 Apr 2018 00:00:00 +0200</pubDate>
+				<link>/journal/side-project-1-migliorare-inglese.html</link>
+				<guid isPermaLink="true">/journal/side-project-1-migliorare-inglese.html</guid>
+			</item>
+		
+			<item>
 				<title>Il mio goal</title>
 				
 					<dc:creator>Davide</dc:creator>

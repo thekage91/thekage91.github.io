@@ -11,7 +11,7 @@ title: Future post
         April 13  
       </p>
     </li>
-    <li itemscope>
+    <li itemscope hidden>
       <a href="">Cosa svilupperò per migliorare il mio inglese</a>
       <p class="post-date">
         <i class="fa fa-calendar" aria-hidden="true"></i>
