@@ -14,25 +14,27 @@ Trovandosi a Londra, ci sono molte occasioni per parlare con altre persone, ad e
 Devo dire che inizialmente è molto imbarazzante, però alla fine è una bellissima esperienza e molto formativa.
 
 ## Il problema
-Il problema è che questi eventi vengono organizzati localmente e non tutti purtroppo hanno possibilità di partecipare, specialmente chi, come me, si trova abbastanza lontano da Londra. 
 
-Volendo migliorare il mio inglese ho deciso di provare a risolvere il problema della distanza sviluppando un servizio che possa permettermi di entrare in contatto con altre persone con le quali parlare in inglese durante una call online. 
+Il problema è che questi eventi vengono organizzati localmente e non tutti purtroppo hanno possibilità di partecipare, specialmente chi, come me, si trova abbastanza lontano da Londra.
+
+Volendo migliorare il mio inglese ho deciso di provare a risolvere il problema della distanza sviluppando un servizio che possa permettermi di entrare in contatto con altre persone con le quali parlare in inglese durante una call online.
 
 Questo servizio si rivolgerà a tutte le persone che, trovandosi lontano, sentono l'esigenza di voler migliorare il proprio inglese parlando con altre persone che hanno lo stesso obiettivo.
 
-## Roadmap 
-Una versione molto minimale della roadmap è la seguente: 
+## Roadmap
 
-- Sviluppo MVP
-- Validazione del problema
-- Acquisizione primi beta tester
-- Creazione versione 1 del servizio 
-- Testing 
-- Iterazione
+Una versione molto minimale della roadmap è la seguente:
+
+* Sviluppo MVP
+* Validazione del problema
+* Acquisizione primi beta tester
+* Creazione versione 1 del servizio
+* Testing
+* Iterazione
 
 Sarebbe il massimo per me arrivare allo sviluppo della versione 1 senza scrivere una riga di codice così da concentrarmi esclusivamente sulla validazione del servizio e delle sue funzionalità. 🙌🏻
 
-Nei prossimi articoli parlerò dell'evoluzione della roadmap andando a spiegare ogni passaggio. 
+Nei prossimi articoli parlerò dell'evoluzione della roadmap andando a spiegare ogni passaggio.
 
 <br>
 <hr>
@@ -46,6 +48,11 @@ Nei prossimi articoli parlerò dell'evoluzione della roadmap andando a spiegare 
 	<div class="form-group">
 		<input type="email" name="EMAIL" class="form-control required email" id="mce-EMAIL" placeholder="La tua email" required="">
 	</div>
+	<div class="form-group">
+		<input type="checkbox" class="form-check-input" id="mce-MMERGE3" placeholder="Devi dare il consenso" value="SI" name="MMERGE3" required="">
+    	<label class="form-check-label" for="mce-MMERGE3" >Accetto di entrare a far parte della Newsletter</label>
+	</div>
+	<br>
 	<div class="form-group">
 		<button type="submit" class="btn btn-default" value="Iscriviti" href="">Iscriviti</button>
 	</div>

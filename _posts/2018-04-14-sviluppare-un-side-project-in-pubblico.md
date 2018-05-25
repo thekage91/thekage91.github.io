@@ -8,15 +8,15 @@ image: side-project.jpg
 image_caption: ""
 ---
 
-Ispirato da  <a href="https://levels.io/hoodmaps/" target="_blank">Pieter Levels</a>, ho deciso di provare anche io a lanciare una sfida a me stesso.
+Ispirato da <a href="https://levels.io/hoodmaps/" target="_blank">Pieter Levels</a>, ho deciso di provare anche io a lanciare una sfida a me stesso.
 
 > Dedicarmi allo sviluppo di un side-project condividendo i progressi dal primo giorno pubblicamente.
 
-Ammetto che non sarà per niente facile. 
+Ammetto che non sarà per niente facile.
 
-Avendo già gran parte del mio tempo occupato sarà molto difficile trovare il tempo per portare avanti lo sviluppo, ma soprattutto, riuscire a metterci in mezzo anche il voler condividere i progressi sin dal primo giorno. 
+Avendo già gran parte del mio tempo occupato sarà molto difficile trovare il tempo per portare avanti lo sviluppo, ma soprattutto, riuscire a metterci in mezzo anche il voler condividere i progressi sin dal primo giorno.
 
-Sono sicuro che questo modo di fare mi aiuterà molto nell'impegnarmi a portare a completamente il progetto. 💪 💪 
+Sono sicuro che questo modo di fare mi aiuterà molto nell'impegnarmi a portare a completamente il progetto. 💪 💪
 
 ## Come farò (forse)
 
@@ -26,19 +26,18 @@ Per questo ho deciso di utilizzare degli strumenti che mi sono familiari e che u
 
 Andrò ad utilizzare:
 
-- **Questo blog**
-- **<a href="https://www.instagram.com/davidesicignani/" target="_blank">Instagram Stories</a>**
+* **Questo blog**
+* **<a href="https://www.instagram.com/davidesicignani/" target="_blank">Instagram Stories</a>**
 
-Attualmente è la soluzione per me migliore e più immediata. 
+Attualmente è la soluzione per me migliore e più immediata.
 Se non vorrai perderti i progressi, segui le storie che farò.
 
-Non so ancora come organizzerò il tutto, ma per il momento ho solo intenzione di iniziare per poi vedere cosa uscirà fuori. 
-Magari sarà un completo buco nell'acqua :D 
+Non so ancora come organizzerò il tutto, ma per il momento ho solo intenzione di iniziare per poi vedere cosa uscirà fuori.
+Magari sarà un completo buco nell'acqua :D
 
 Ora però vorrai conoscere questo side-project che svilupperò..\..
 
 Ne parlerò in un altro post 😁😁
-
 
 <br>
 <hr>
@@ -53,8 +52,11 @@ Ne parlerò in un altro post 😁😁
 		<input type="email" name="EMAIL" class="form-control required email" id="mce-EMAIL" placeholder="La tua email" required="">
 	</div>
 	<div class="form-group">
+		<input type="checkbox" class="form-check-input" id="mce-MMERGE3" placeholder="Devi dare il consenso" value="SI" name="MMERGE3" required="">
+    	<label class="form-check-label" for="mce-MMERGE3" >Accetto di entrare a far parte della Newsletter</label>
+	</div>
+	<br>
+	<div class="form-group">
 		<button type="submit" class="btn btn-default" value="Iscriviti" href="">Iscriviti</button>
 	</div>
 </form>
-
-
