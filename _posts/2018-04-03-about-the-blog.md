@@ -68,7 +68,7 @@ Se mi ricorderò di inviarle, riceverai ogni giorno alla stessa ora (non so anco
 	</div>
 	<div class="form-group">
 		<input type="checkbox" class="form-check-input" id="mce-MMERGE3" placeholder="Devi dare il consenso" value="SI" name="MMERGE3" required="">
-    	<label class="form-check-label" for="mce-MMERGE3" >Accetto di entrare a far parte della Newsletter</label>
+    	<label class="form-check-label" for="mce-MMERGE3" >“Ho letto le privacy policy e autorizzo il trattamento dei miei dati</label>
 	</div>
 	<br>
 	<div class="form-group">

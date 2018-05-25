@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-25T14:25:40+02:00</updated><id>http://localhost:4000/</id><title type="html">Dailyminute</title><subtitle>daily (si spera) 1 minute blog (sicuramente)</subtitle><author><name>Davide</name></author><entry><title type="html">Side project #1: Migliorare il proprio inglese</title><link href="http://localhost:4000/journal/side-project-1-migliorare-inglese.html" rel="alternate" type="text/html" title="Side project #1: Migliorare il proprio inglese" /><published>2018-04-16T00:00:00+02:00</published><updated>2018-04-16T00:00:00+02:00</updated><id>http://localhost:4000/journal/side-project-1-migliorare-inglese</id><content type="html" xml:base="http://localhost:4000/journal/side-project-1-migliorare-inglese.html">&lt;p&gt;Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-25T14:50:18+02:00</updated><id>http://localhost:4000/</id><title type="html">Dailyminute</title><subtitle>daily (si spera) 1 minute blog (sicuramente)</subtitle><author><name>Davide</name></author><entry><title type="html">Side project #1: Migliorare il proprio inglese</title><link href="http://localhost:4000/journal/side-project-1-migliorare-inglese.html" rel="alternate" type="text/html" title="Side project #1: Migliorare il proprio inglese" /><published>2018-04-16T00:00:00+02:00</published><updated>2018-04-16T00:00:00+02:00</updated><id>http://localhost:4000/journal/side-project-1-migliorare-inglese</id><content type="html" xml:base="http://localhost:4000/journal/side-project-1-migliorare-inglese.html">&lt;p&gt;Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.&lt;/p&gt;
 
 &lt;p&gt;Trovandosi a Londra, ci sono molte occasioni per parlare con altre persone, ad esempio ci sono molti meetup gratuiti incentrati proprio sullo speaking che ti spingono a dover parlare con altre persone che non hai mai visto prima.&lt;/p&gt;
 
@@ -44,7 +44,7 @@
 	&lt;/div&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;mce-MMERGE3&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Accetto di entrare a far parte della Newsletter&lt;/label&gt;
+    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
 	&lt;/div&gt;
 	&lt;br /&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
@@ -100,7 +100,7 @@ Magari sarà un completo buco nell’acqua :D&lt;/p&gt;
 	&lt;/div&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;mce-MMERGE3&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Accetto di entrare a far parte della Newsletter&lt;/label&gt;
+    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
 	&lt;/div&gt;
 	&lt;br /&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
@@ -163,7 +163,7 @@ Magari sarà un completo buco nell’acqua :D&lt;/p&gt;
 	&lt;/div&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;mce-MMERGE3&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Accetto di entrare a far parte della Newsletter&lt;/label&gt;
+    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
 	&lt;/div&gt;
 	&lt;br /&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
@@ -209,7 +209,7 @@ Ma di questo ne parlerò in uno dei prossimi post.&lt;/p&gt;
 	&lt;/div&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;mce-MMERGE3&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Accetto di entrare a far parte della Newsletter&lt;/label&gt;
+    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
 	&lt;/div&gt;
 	&lt;br /&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
@@ -243,7 +243,7 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 	&lt;/div&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;mce-MMERGE3&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Accetto di entrare a far parte della Newsletter&lt;/label&gt;
+    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
 	&lt;/div&gt;
 	&lt;br /&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
@@ -333,7 +333,7 @@ Io sono iscritti a molto canali che vanno dal Bushcraft fino ad arrivare allo sv
 	&lt;/div&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;mce-MMERGE3&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Accetto di entrare a far parte della Newsletter&lt;/label&gt;
+    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
 	&lt;/div&gt;
 	&lt;br /&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
@@ -390,7 +390,7 @@ Magari è così, magari queste sono solo cazzate, ma non mi interessa, almeno ci
 	&lt;/div&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;mce-MMERGE3&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Accetto di entrare a far parte della Newsletter&lt;/label&gt;
+    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
 	&lt;/div&gt;
 	&lt;br /&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
@@ -462,7 +462,7 @@ Magari è così, magari queste sono solo cazzate, ma non mi interessa, almeno ci
 	&lt;/div&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;mce-MMERGE3&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;Accetto di entrare a far parte della Newsletter&lt;/label&gt;
+    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;“Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
 	&lt;/div&gt;
 	&lt;br /&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
