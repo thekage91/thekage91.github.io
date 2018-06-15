@@ -7,6 +7,22 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ripartire da zero</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Ogni tanto chiedo a me stesso come sarebbe ripatire da zero, proprio dalle basi, ripartire da una situazione &lt;strong&gt;scarica&lt;/strong&gt;.
+Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita veloce, che ci porta a perdere la bussola.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 15 Jun 2018 00:00:00 +0200</pubDate>
+				<link>/journal/ripatire-da-zero.html</link>
+				<guid isPermaLink="true">/journal/ripatire-da-zero.html</guid>
+			</item>
+		
+			<item>
 				<title>Side project #1: Migliorare il proprio inglese</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -17,8 +33,8 @@
 </description>
 				
 				<pubDate>Mon, 16 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/side-project-1-migliorare-inglese.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/side-project-1-migliorare-inglese.html</guid>
+				<link>/journal/side-project-1-migliorare-inglese.html</link>
+				<guid isPermaLink="true">/journal/side-project-1-migliorare-inglese.html</guid>
 			</item>
 		
 			<item>
@@ -32,8 +48,8 @@
 </description>
 				
 				<pubDate>Sat, 14 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/sviluppare-un-side-project-in-pubblico.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/sviluppare-un-side-project-in-pubblico.html</guid>
+				<link>/journal/sviluppare-un-side-project-in-pubblico.html</link>
+				<guid isPermaLink="true">/journal/sviluppare-un-side-project-in-pubblico.html</guid>
 			</item>
 		
 			<item>
@@ -47,8 +63,8 @@
 </description>
 				
 				<pubDate>Fri, 13 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/il-mio-goal.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/il-mio-goal.html</guid>
+				<link>/journal/il-mio-goal.html</link>
+				<guid isPermaLink="true">/journal/il-mio-goal.html</guid>
 			</item>
 		
 			<item>
@@ -63,8 +79,8 @@ Devo essere sincero, non sono mai stato convinto al 100% di andare, ma la sicure
 </description>
 				
 				<pubDate>Wed, 11 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/finisce-qui.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/finisce-qui.html</guid>
+				<link>/journal/finisce-qui.html</link>
+				<guid isPermaLink="true">/journal/finisce-qui.html</guid>
 			</item>
 		
 			<item>
@@ -79,8 +95,8 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Sat, 07 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/la-tecnica-perfetta-pizza.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/la-tecnica-perfetta-pizza.html</guid>
+				<link>/journal/la-tecnica-perfetta-pizza.html</link>
+				<guid isPermaLink="true">/journal/la-tecnica-perfetta-pizza.html</guid>
 			</item>
 		
 			<item>
@@ -94,8 +110,8 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 06 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</guid>
+				<link>/journal/se-non-corri-sei-un-perdente.html</link>
+				<guid isPermaLink="true">/journal/se-non-corri-sei-un-perdente.html</guid>
 			</item>
 		
 			<item>
@@ -109,8 +125,8 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/siti-dove-farsi-ispirare.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/siti-dove-farsi-ispirare.html</guid>
+				<link>/journal/siti-dove-farsi-ispirare.html</link>
+				<guid isPermaLink="true">/journal/siti-dove-farsi-ispirare.html</guid>
 			</item>
 		
 			<item>
@@ -124,8 +140,8 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 04 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/no-fear-zi.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/no-fear-zi.html</guid>
+				<link>/journal/no-fear-zi.html</link>
+				<guid isPermaLink="true">/journal/no-fear-zi.html</guid>
 			</item>
 		
 			<item>
@@ -139,8 +155,8 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 03 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/about-the-blog.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/about-the-blog.html</guid>
+				<link>/journal/about-the-blog.html</link>
+				<guid isPermaLink="true">/journal/about-the-blog.html</guid>
 			</item>
 		
 	</channel>
