@@ -11,6 +11,7 @@
     Code
     Tables
     Social media icons
+    Button
 */
 
 /*
@@ -545,4 +546,24 @@ form button{
 
 .fa-rss-square:hover {
 	color: #ff6600;
+}
+
+/* 
+  Button
+*/
+
+a.btn{
+  padding: 10px 20px 10px 20px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  background: #333;
+  color: white;
+}
+
+a.btn.btn-shadow{
+  box-shadow: 0px 0px 20px 0px #333;
+}
+
+a.btn.btn-block{
+  width: 100%;
 }

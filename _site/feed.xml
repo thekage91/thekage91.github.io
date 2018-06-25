@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-06-15T21:04:10+02:00</updated><id>/</id><title type="html">Dailyminute</title><subtitle>daily (si spera) 1 minute blog (sicuramente)</subtitle><author><name>Davide</name></author><entry><title type="html">Ripartire da zero</title><link href="/journal/ripatire-da-zero.html" rel="alternate" type="text/html" title="Ripartire da zero" /><published>2018-06-15T00:00:00+02:00</published><updated>2018-06-15T00:00:00+02:00</updated><id>/journal/ripatire-da-zero</id><content type="html" xml:base="/journal/ripatire-da-zero.html">&lt;p&gt;Ogni tanto chiedo a me stesso come sarebbe ripatire da zero, proprio dalle basi, ripartire da una situazione &lt;strong&gt;scarica&lt;/strong&gt;.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-25T22:18:48+02:00</updated><id>http://localhost:4000/</id><title type="html">Dailyminute</title><subtitle>daily (si spera) 1 minute blog (sicuramente)</subtitle><author><name>Davide</name></author><entry><title type="html">Side project #1: Taalk</title><link href="http://localhost:4000/journal/public-side-project-taalk.html" rel="alternate" type="text/html" title="Side project #1: Taalk" /><published>2018-06-25T00:00:00+02:00</published><updated>2018-06-25T00:00:00+02:00</updated><id>http://localhost:4000/journal/public-side-project-taalk</id><content type="html" xml:base="http://localhost:4000/journal/public-side-project-taalk.html">&lt;p&gt;Qualche post fa, ho lanciato una sfida a me stesso: &lt;strong&gt;&lt;a href=&quot;http://dailyminute.sprintstudio.co/journal/sviluppare-un-side-project-in-pubblico.html&quot;&gt;Sviluppare un side-project in pubblico&lt;/a&gt;&lt;/strong&gt; dal primo giorno, condividendo i progressi qui e su &lt;a href=&quot;https://www.instagram.com/davidesicignani/&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se non sai di che progetto sto parlando, allora &lt;a href=&quot;http://dailyminute.sprintstudio.co/journal/side-project-1-migliorare-inglese.html&quot;&gt;leggi qui&lt;/a&gt; così potrai saperne di più.&lt;/p&gt;
+
+&lt;p&gt;E’ arrivato il momento di scrivere due update per farti sapere come sta andando (pensavo che la cosa morisse, invece no!).&lt;/p&gt;
+
+&lt;h2 id=&quot;il-nome&quot;&gt;Il nome&lt;/h2&gt;
+&lt;p&gt;Attualmente la mia testa mi ha detto di chiamarlo &lt;strong&gt;Taalk&lt;/strong&gt;, che poi non è così male, ma non so se manterrò il nome.&lt;/p&gt;
+
+&lt;p&gt;Se hai idee su un possibile nome, scrivimi.&lt;/p&gt;
+
+&lt;h2 id=&quot;il-sito-web&quot;&gt;Il sito web&lt;/h2&gt;
+&lt;p&gt;Per natura siamo portati a complicarci sempre la vita, ed io sono il primo, però questa volta ho deciso di mantenere le cose semplicisssssssime.&lt;/p&gt;
+
+&lt;p&gt;Ho buttato giù un semplicissimo sito per presentare il servizio, sviluppato senza scrivere una riga di codice grazie a &lt;a href=&quot;https://carrd.co/&quot;&gt;Carrd&lt;/a&gt; ed integrando &lt;a href=&quot;https://www.typeform.com/&quot;&gt;Typeform&lt;/a&gt; per ricevere le iscrizioni degli utenti.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a class=&quot;btn&quot; href=&quot;https://taalk.sprintstudio.co/&quot; target=&quot;_blank&quot;&gt;Clicca qui&lt;/a&gt; per vedere il sito, mentre di seguito un paio di immagini&lt;/p&gt;
+
+&lt;h3 id=&quot;home&quot;&gt;Home&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/taalk-screen/screen-1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how-it-works&quot;&gt;How it works&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/taalk-screen/screen-2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;signup&quot;&gt;Signup&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/taalk-screen/screen-3.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fine!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;diffusione&quot;&gt;Diffusione&lt;/h2&gt;
+&lt;p&gt;Come lo sto diffondendo? Come procede?
+Ne parlerò in uno dei prossimi post 🤙🤙&lt;/p&gt;
+
+&lt;p&gt;Se ti vuoi iscrivere, allora clicca sul bottone qui sotto e crea il tuo profilo.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a class=&quot;btn btn-block btn-shadow&quot; href=&quot;https://taalk.sprintstudio.co/#signup&quot; target=&quot;_blank&quot;&gt;Crea il tuo profilo&lt;/a&gt; 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alla prossima!&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Qualche post fa, ho lanciato una sfida a me stesso: Sviluppare un side-project in pubblico dal primo giorno, condividendo i progressi qui e su Instagram.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/taalk.jpg" /></entry><entry><title type="html">Ripartire da zero</title><link href="http://localhost:4000/journal/ripatire-da-zero.html" rel="alternate" type="text/html" title="Ripartire da zero" /><published>2018-06-15T00:00:00+02:00</published><updated>2018-06-15T00:00:00+02:00</updated><id>http://localhost:4000/journal/ripatire-da-zero</id><content type="html" xml:base="http://localhost:4000/journal/ripatire-da-zero.html">&lt;p&gt;Ogni tanto chiedo a me stesso come sarebbe ripatire da zero, proprio dalle basi, ripartire da una situazione &lt;strong&gt;scarica&lt;/strong&gt;.
 Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita veloce, che ci porta a perdere la bussola.&lt;/p&gt;
 
 &lt;p&gt;La cosa che mi fa riflettere molto è il cambiamento della propria mentalità e del modo in cui vediamo le cose.
@@ -20,7 +60,7 @@ Più si va avanti e più questa cosa diventa importante, inizia a farsi sentire,
 
 &lt;p&gt;Azzerare i pensieri!&lt;/p&gt;
 
-&lt;p&gt;Sembra facile a dirsi…&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Ogni tanto chiedo a me stesso come sarebbe ripatire da zero, proprio dalle basi, ripartire da una situazione scarica. Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita veloce, che ci porta a perdere la bussola.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/restart.jpg" /></entry><entry><title type="html">Side project #1: Migliorare il proprio inglese</title><link href="/journal/side-project-1-migliorare-inglese.html" rel="alternate" type="text/html" title="Side project #1: Migliorare il proprio inglese" /><published>2018-04-16T00:00:00+02:00</published><updated>2018-04-16T00:00:00+02:00</updated><id>/journal/side-project-1-migliorare-inglese</id><content type="html" xml:base="/journal/side-project-1-migliorare-inglese.html">&lt;p&gt;Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.&lt;/p&gt;
+&lt;p&gt;Sembra facile a dirsi…&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Ogni tanto chiedo a me stesso come sarebbe ripatire da zero, proprio dalle basi, ripartire da una situazione scarica. Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita veloce, che ci porta a perdere la bussola.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/restart.jpg" /></entry><entry><title type="html">Side project #1: Migliorare il proprio inglese</title><link href="http://localhost:4000/journal/side-project-1-migliorare-inglese.html" rel="alternate" type="text/html" title="Side project #1: Migliorare il proprio inglese" /><published>2018-04-16T00:00:00+02:00</published><updated>2018-04-16T00:00:00+02:00</updated><id>http://localhost:4000/journal/side-project-1-migliorare-inglese</id><content type="html" xml:base="http://localhost:4000/journal/side-project-1-migliorare-inglese.html">&lt;p&gt;Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.&lt;/p&gt;
 
 &lt;p&gt;Trovandosi a Londra, ci sono molte occasioni per parlare con altre persone, ad esempio ci sono molti meetup gratuiti incentrati proprio sullo speaking che ti spingono a dover parlare con altre persone che non hai mai visto prima.&lt;/p&gt;
 
@@ -72,7 +112,7 @@ Più si va avanti e più questa cosa diventa importante, inizia a farsi sentire,
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
 	&lt;/div&gt;
-&lt;/form&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/speak.jpg" /></entry><entry><title type="html">Sviluppare un side-project in pubblico</title><link href="/journal/sviluppare-un-side-project-in-pubblico.html" rel="alternate" type="text/html" title="Sviluppare un side-project in pubblico" /><published>2018-04-14T00:00:00+02:00</published><updated>2018-04-14T00:00:00+02:00</updated><id>/journal/sviluppare-un-side-project-in-pubblico</id><content type="html" xml:base="/journal/sviluppare-un-side-project-in-pubblico.html">&lt;p&gt;Ispirato da &lt;a href=&quot;https://levels.io/hoodmaps/&quot; target=&quot;_blank&quot;&gt;Pieter Levels&lt;/a&gt;, ho deciso di provare anche io a lanciare una sfida a me stesso.&lt;/p&gt;
+&lt;/form&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/speak.jpg" /></entry><entry><title type="html">Sviluppare un side-project in pubblico</title><link href="http://localhost:4000/journal/sviluppare-un-side-project-in-pubblico.html" rel="alternate" type="text/html" title="Sviluppare un side-project in pubblico" /><published>2018-04-14T00:00:00+02:00</published><updated>2018-04-14T00:00:00+02:00</updated><id>http://localhost:4000/journal/sviluppare-un-side-project-in-pubblico</id><content type="html" xml:base="http://localhost:4000/journal/sviluppare-un-side-project-in-pubblico.html">&lt;p&gt;Ispirato da &lt;a href=&quot;https://levels.io/hoodmaps/&quot; target=&quot;_blank&quot;&gt;Pieter Levels&lt;/a&gt;, ho deciso di provare anche io a lanciare una sfida a me stesso.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Dedicarmi allo sviluppo di un side-project condividendo i progressi dal primo giorno pubblicamente.&lt;/p&gt;
@@ -128,7 +168,7 @@ Magari sarà un completo buco nell’acqua :D&lt;/p&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
 	&lt;/div&gt;
-&lt;/form&gt;</content><author><name>Davide</name></author><category term="develop" /><category term="side-project" /><category term="maker" /><category term="life" /><summary type="html">Ispirato da Pieter Levels, ho deciso di provare anche io a lanciare una sfida a me stesso.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/side-project.jpg" /></entry><entry><title type="html">Il mio goal</title><link href="/journal/il-mio-goal.html" rel="alternate" type="text/html" title="Il mio goal" /><published>2018-04-13T00:00:00+02:00</published><updated>2018-04-13T00:00:00+02:00</updated><id>/journal/il-mio-goal</id><content type="html" xml:base="/journal/il-mio-goal.html">&lt;p&gt;L’esperienza a Londra mi ha insegnato tantissime cose, la cosa più importante è: &lt;strong&gt;farmi capire cosa voglio!&lt;/strong&gt;&lt;/p&gt;
+&lt;/form&gt;</content><author><name>Davide</name></author><category term="develop" /><category term="side-project" /><category term="maker" /><category term="life" /><summary type="html">Ispirato da Pieter Levels, ho deciso di provare anche io a lanciare una sfida a me stesso.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/side-project.jpg" /></entry><entry><title type="html">Il mio goal</title><link href="http://localhost:4000/journal/il-mio-goal.html" rel="alternate" type="text/html" title="Il mio goal" /><published>2018-04-13T00:00:00+02:00</published><updated>2018-04-13T00:00:00+02:00</updated><id>http://localhost:4000/journal/il-mio-goal</id><content type="html" xml:base="http://localhost:4000/journal/il-mio-goal.html">&lt;p&gt;L’esperienza a Londra mi ha insegnato tantissime cose, la cosa più importante è: &lt;strong&gt;farmi capire cosa voglio!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Siamo sempre nella situazione di dover far scelte e trovare compromessi per avvicinarci ad una situazione che più ci rende soddisfatti.&lt;/p&gt;
 
@@ -191,7 +231,7 @@ Magari sarà un completo buco nell’acqua :D&lt;/p&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
 	&lt;/div&gt;
-&lt;/form&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">L’esperienza a Londra mi ha insegnato tantissime cose, la cosa più importante è: farmi capire cosa voglio!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/goal.jpg" /></entry><entry><title type="html">Finisce qui la mia esperienza a Londra (per ora)</title><link href="/journal/finisce-qui.html" rel="alternate" type="text/html" title="Finisce qui la mia esperienza a Londra (per ora)" /><published>2018-04-11T00:00:00+02:00</published><updated>2018-04-11T00:00:00+02:00</updated><id>/journal/finisce-qui</id><content type="html" xml:base="/journal/finisce-qui.html">&lt;p&gt;Il 16 Febbraio sono partito per Londra per vivere una nuova città, vedere cosa offriva e per fare nuove esperienze.
+&lt;/form&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">L’esperienza a Londra mi ha insegnato tantissime cose, la cosa più importante è: farmi capire cosa voglio!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/goal.jpg" /></entry><entry><title type="html">Finisce qui la mia esperienza a Londra (per ora)</title><link href="http://localhost:4000/journal/finisce-qui.html" rel="alternate" type="text/html" title="Finisce qui la mia esperienza a Londra (per ora)" /><published>2018-04-11T00:00:00+02:00</published><updated>2018-04-11T00:00:00+02:00</updated><id>http://localhost:4000/journal/finisce-qui</id><content type="html" xml:base="http://localhost:4000/journal/finisce-qui.html">&lt;p&gt;Il 16 Febbraio sono partito per Londra per vivere una nuova città, vedere cosa offriva e per fare nuove esperienze.
 Devo essere sincero, non sono mai stato convinto al 100% di andare, ma la sicurezza di fare la scelta giusta non la si avrà mai.&lt;/p&gt;
 
 &lt;p&gt;Feci il passo soprattutto per migliorare il mio inglese che purtroppo non è assolutamente ad un livello per me accetabile.&lt;/p&gt;
@@ -237,7 +277,7 @@ Ma di questo ne parlerò in uno dei prossimi post.&lt;/p&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
 	&lt;/div&gt;
-&lt;/form&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Il 16 Febbraio sono partito per Londra per vivere una nuova città, vedere cosa offriva e per fare nuove esperienze. Devo essere sincero, non sono mai stato convinto al 100% di andare, ma la sicurezza di fare la scelta giusta non la si avrà mai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/finisce-qui.jpg" /></entry><entry><title type="html">La tecnica perfetta per calcolare quanta massa mettere in una teglia di pizza</title><link href="/journal/la-tecnica-perfetta-pizza.html" rel="alternate" type="text/html" title="La tecnica perfetta per calcolare quanta massa mettere in una teglia di pizza" /><published>2018-04-07T00:00:00+02:00</published><updated>2018-04-07T00:00:00+02:00</updated><id>/journal/la-tecnica-perfetta-pizza</id><content type="html" xml:base="/journal/la-tecnica-perfetta-pizza.html">&lt;p&gt;Da appassionato di pizza oramai da anni, ho accumulato una serie di consigli pratici.&lt;br /&gt;
+&lt;/form&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Il 16 Febbraio sono partito per Londra per vivere una nuova città, vedere cosa offriva e per fare nuove esperienze. Devo essere sincero, non sono mai stato convinto al 100% di andare, ma la sicurezza di fare la scelta giusta non la si avrà mai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/finisce-qui.jpg" /></entry><entry><title type="html">La tecnica perfetta per calcolare quanta massa mettere in una teglia di pizza</title><link href="http://localhost:4000/journal/la-tecnica-perfetta-pizza.html" rel="alternate" type="text/html" title="La tecnica perfetta per calcolare quanta massa mettere in una teglia di pizza" /><published>2018-04-07T00:00:00+02:00</published><updated>2018-04-07T00:00:00+02:00</updated><id>http://localhost:4000/journal/la-tecnica-perfetta-pizza</id><content type="html" xml:base="http://localhost:4000/journal/la-tecnica-perfetta-pizza.html">&lt;p&gt;Da appassionato di pizza oramai da anni, ho accumulato una serie di consigli pratici.&lt;br /&gt;
 Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -271,7 +311,7 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
 	&lt;/div&gt;
-&lt;/form&gt;</content><author><name>Davide</name></author><category term="cook" /><summary type="html">Da appassionato di pizza oramai da anni, ho accumulato una serie di consigli pratici. Oggi il primo. ☝️ La tecnica perfetta è….</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pizza.jpg" /></entry><entry><title type="html">Se non corri sei un perdente</title><link href="/journal/se-non-corri-sei-un-perdente.html" rel="alternate" type="text/html" title="Se non corri sei un perdente" /><published>2018-04-06T00:00:00+02:00</published><updated>2018-04-06T00:00:00+02:00</updated><id>/journal/se-non-corri-sei-un-perdente</id><content type="html" xml:base="/journal/se-non-corri-sei-un-perdente.html">&lt;p&gt;Una cosa che non ho mai capito nel mondo è la fretta, poi a Londra, capirai!&lt;/p&gt;
+&lt;/form&gt;</content><author><name>Davide</name></author><category term="cook" /><summary type="html">Da appassionato di pizza oramai da anni, ho accumulato una serie di consigli pratici. Oggi il primo. ☝️ La tecnica perfetta è….</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/pizza.jpg" /></entry><entry><title type="html">Se non corri sei un perdente</title><link href="http://localhost:4000/journal/se-non-corri-sei-un-perdente.html" rel="alternate" type="text/html" title="Se non corri sei un perdente" /><published>2018-04-06T00:00:00+02:00</published><updated>2018-04-06T00:00:00+02:00</updated><id>http://localhost:4000/journal/se-non-corri-sei-un-perdente</id><content type="html" xml:base="http://localhost:4000/journal/se-non-corri-sei-un-perdente.html">&lt;p&gt;Una cosa che non ho mai capito nel mondo è la fretta, poi a Londra, capirai!&lt;/p&gt;
 
 &lt;p&gt;Da quando mi trovo qui la cosa che mi ha più colpito è come le persone &lt;strong&gt;corrano&lt;/strong&gt;, sembra che qualcuno le rincorra e loro sono costrette a scappare, a fuggiere da qualcosa che in realtà sta nella loro testa. &lt;br /&gt;Ti travolgono se non ti sposti e non si fanno problemi a risolvere la cosa con un semplice &lt;strong&gt;sorry&lt;/strong&gt;, io dentro di me: &lt;strong&gt;sorry il ca°°o&lt;/strong&gt;.&lt;/p&gt;
 
@@ -305,7 +345,7 @@ Il brutto è che questa cosa colpisce &lt;strong&gt;tutti&lt;/strong&gt;, ma ver
   &lt;p&gt;Chi va piano va sano e va lontano.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Qua se non corri sei un perdente!&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Una cosa che non ho mai capito nel mondo è la fretta, poi a Londra, capirai!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/run-run.jpg" /></entry><entry><title type="html">5 siti utilissimi per farsi ispirare</title><link href="/journal/siti-dove-farsi-ispirare.html" rel="alternate" type="text/html" title="5 siti utilissimi per farsi ispirare" /><published>2018-04-05T00:00:00+02:00</published><updated>2018-04-05T00:00:00+02:00</updated><id>/journal/siti-dove-farsi-ispirare</id><content type="html" xml:base="/journal/siti-dove-farsi-ispirare.html">&lt;h2 id=&quot;indie-hackers&quot;&gt;&lt;a href=&quot;https://www.indiehackers.com/&quot;&gt;Indie Hackers&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Qua se non corri sei un perdente!&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Una cosa che non ho mai capito nel mondo è la fretta, poi a Londra, capirai!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/run-run.jpg" /></entry><entry><title type="html">5 siti utilissimi per farsi ispirare</title><link href="http://localhost:4000/journal/siti-dove-farsi-ispirare.html" rel="alternate" type="text/html" title="5 siti utilissimi per farsi ispirare" /><published>2018-04-05T00:00:00+02:00</published><updated>2018-04-05T00:00:00+02:00</updated><id>http://localhost:4000/journal/siti-dove-farsi-ispirare</id><content type="html" xml:base="http://localhost:4000/journal/siti-dove-farsi-ispirare.html">&lt;h2 id=&quot;indie-hackers&quot;&gt;&lt;a href=&quot;https://www.indiehackers.com/&quot;&gt;Indie Hackers&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Indie Hackers&lt;/strong&gt; è un sito fantastico!
 Potrai trovare un sacco di storie di persone che nel loro piccolo hanno deciso di dare una svolta alla propria vita ed hanno iniziato a sviluppare un proprio business partendo da una propria idea.&lt;/p&gt;
@@ -361,7 +401,7 @@ Io sono iscritti a molto canali che vanno dal Bushcraft fino ad arrivare allo sv
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
 	&lt;/div&gt;
-&lt;/form&gt;</content><author><name>Davide</name></author><category term="make" /><summary type="html">Indie Hackers</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/idea.jpg" /></entry><entry><title type="html">No fear zi</title><link href="/journal/no-fear-zi.html" rel="alternate" type="text/html" title="No fear zi" /><published>2018-04-04T00:00:00+02:00</published><updated>2018-04-04T00:00:00+02:00</updated><id>/journal/no-fear-zi</id><content type="html" xml:base="/journal/no-fear-zi.html">&lt;p&gt;Nel momento in cui ti trovi nella situazione di dover fare una scelta importante, &lt;strong&gt;hai paura&lt;/strong&gt;, diciamoci la verità, è così.&lt;/p&gt;
+&lt;/form&gt;</content><author><name>Davide</name></author><category term="make" /><summary type="html">Indie Hackers</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/idea.jpg" /></entry><entry><title type="html">No fear zi</title><link href="http://localhost:4000/journal/no-fear-zi.html" rel="alternate" type="text/html" title="No fear zi" /><published>2018-04-04T00:00:00+02:00</published><updated>2018-04-04T00:00:00+02:00</updated><id>http://localhost:4000/journal/no-fear-zi</id><content type="html" xml:base="http://localhost:4000/journal/no-fear-zi.html">&lt;p&gt;Nel momento in cui ti trovi nella situazione di dover fare una scelta importante, &lt;strong&gt;hai paura&lt;/strong&gt;, diciamoci la verità, è così.&lt;/p&gt;
 
 &lt;p&gt;Chi non ha paura di prendere una decisione e poi prendere una cantonata pazzesca?&lt;/p&gt;
 
@@ -418,76 +458,4 @@ Magari è così, magari queste sono solo cazzate, ma non mi interessa, almeno ci
 	&lt;div class=&quot;form-group&quot;&gt;
 		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
 	&lt;/div&gt;
-&lt;/form&gt;</content><author><name>Davide</name></author><category term="no-fear" /><summary type="html">Nel momento in cui ti trovi nella situazione di dover fare una scelta importante, hai paura, diciamoci la verità, è così.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/no-fear.jpg" /></entry><entry><title type="html">Un blog da un minuto</title><link href="/journal/about-the-blog.html" rel="alternate" type="text/html" title="Un blog da un minuto" /><published>2018-04-03T00:00:00+02:00</published><updated>2018-04-03T00:00:00+02:00</updated><id>/journal/about-the-blog</id><content type="html" xml:base="/journal/about-the-blog.html">&lt;p&gt;La difficoltà nel fare una cosa sta nell’iniziarla, per questo ho deciso di iniziare un blog che sicuramente fallirà essendo questa la &lt;strong&gt;TERZA VOLTA&lt;/strong&gt; che provo ad avviarne uno, ma la speranza è l’ultima a morire.&lt;/p&gt;
-
-&lt;p&gt;Visto che amo complicarmi la vita, l’obiettivo sarà:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Pubblicare &lt;strong&gt;una volta al giorno&lt;/strong&gt; post con un tempo massimo di lettura &lt;strong&gt;di un minuto&lt;/strong&gt; (cavolo non mi dire che non hai un minuto per leggere i miei prossimi post favolosi!), da qui &lt;strong&gt;dailyminute&lt;/strong&gt;. &lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Si, una pazzia!&lt;/p&gt;
-
-&lt;h1 id=&quot;di-cosa-parlerò&quot;&gt;Di cosa parlerò?&lt;/h1&gt;
-
-&lt;p&gt;Non lo so!&lt;/p&gt;
-
-&lt;p&gt;Ho deciso di iniziare senza pormi un linea editoriale specifica da seguire, altrimenti so già come andrà a finire!&lt;/p&gt;
-
-&lt;p&gt;Quello che posso dirti però è che troverai molte cose interessanti (🤥🤥🤥).&lt;/p&gt;
-
-&lt;h1 id=&quot;i-topic-che-tratterò&quot;&gt;I topic che tratterò&lt;/h1&gt;
-
-&lt;p&gt;Non lo so!&lt;/p&gt;
-
-&lt;p&gt;Utilizzerò questo spazio per parlare di:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Idee&lt;/li&gt;
-  &lt;li&gt;Esperienze&lt;/li&gt;
-  &lt;li&gt;Sfide&lt;/li&gt;
-  &lt;li&gt;Qualunque cosa che mi passi per la testa&lt;/li&gt;
-  &lt;li&gt;Progetti che sto sviluppando&lt;/li&gt;
-  &lt;li&gt;Progetti che vorrei sviluppare&lt;/li&gt;
-  &lt;li&gt;Riflessioni sul mondo e sulla vita&lt;/li&gt;
-  &lt;li&gt;Molto altro….&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tutto prenderà forma durante il cammino.&lt;/p&gt;
-
-&lt;h1 id=&quot;la-verità&quot;&gt;La verità&lt;/h1&gt;
-
-&lt;p&gt;La verità è che ti devi fidare e dedicare un minuto della tua giornata per visitare questo blog e vedere se qualcosa è cambiato, magari scoprirai qualcosa di interessante investendo un solo minuto della tua giornata!&lt;/p&gt;
-
-&lt;p&gt;Meglio essere sinceri che dare false speranze, così sia io che tu coglieremo il massimo da questo blog.&lt;/p&gt;
-
-&lt;p&gt;Se non avrai un minuto libero, ti capisco, non è facile.&lt;/p&gt;
-
-&lt;p&gt;Per il momento è tutto, alla prossima!&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;unultima-cosa--&quot;&gt;Un’ultima cosa. ✋ ✋&lt;/h2&gt;
-
-&lt;p&gt;Se proprio vuoi farti del male (ma non te lo consiglio), &lt;strong&gt;iscriviti alla mia Newsletter&lt;/strong&gt; (io le odio più di te!)&lt;/p&gt;
-
-&lt;p&gt;Se mi ricorderò di inviarle, riceverai ogni giorno alla stessa ora (non so ancora a che ora) una piccolissima email con il titolo del nuovo post che potrai leggere, se vorrai, sul blog.&lt;/p&gt;
-
-&lt;form action=&quot;https://sprintstudio.us11.list-manage.com/subscribe/post?u=baa6a96ac00514e2d994c55e2&amp;amp;id=10b14f6753&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate&quot; target=&quot;_blank&quot; validate=&quot;&quot;&gt;
-	&lt;legend&gt;Iscriviti nella Newsletter&lt;/legend&gt;
-	&lt;div class=&quot;form-group&quot;&gt;
-		&lt;input type=&quot;text&quot; name=&quot;FNAME&quot; class=&quot;form-control&quot; id=&quot;mce-FNAME&quot; placeholder=&quot;Il tuo Nome&quot; required=&quot;&quot; /&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;form-group&quot;&gt;
-		&lt;input type=&quot;email&quot; name=&quot;EMAIL&quot; class=&quot;form-control required email&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;La tua email&quot; required=&quot;&quot; /&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;form-group&quot;&gt;
-		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;mce-MMERGE3&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;form-check-label&quot; for=&quot;mce-MMERGE3&quot;&gt;“Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
-	&lt;/div&gt;
-	&lt;br /&gt;
-	&lt;div class=&quot;form-group&quot;&gt;
-		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
-	&lt;/div&gt;
-&lt;/form&gt;</content><author><name>Davide</name></author><category term="documentation" /><category term="sample" /><summary type="html">La difficoltà nel fare una cosa sta nell’iniziarla, per questo ho deciso di iniziare un blog che sicuramente fallirà essendo questa la TERZA VOLTA che provo ad avviarne uno, ma la speranza è l’ultima a morire.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/time.jpg" /></entry></feed>
+&lt;/form&gt;</content><author><name>Davide</name></author><category term="no-fear" /><summary type="html">Nel momento in cui ti trovi nella situazione di dover fare una scelta importante, hai paura, diciamoci la verità, è così.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/no-fear.jpg" /></entry></feed>

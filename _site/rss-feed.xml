@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Side project #1: Taalk</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Qualche post fa, ho lanciato una sfida a me stesso: &lt;strong&gt;&lt;a href=&quot;http://dailyminute.sprintstudio.co/journal/sviluppare-un-side-project-in-pubblico.html&quot;&gt;Sviluppare un side-project in pubblico&lt;/a&gt;&lt;/strong&gt; dal primo giorno, condividendo i progressi qui e su &lt;a href=&quot;https://www.instagram.com/davidesicignani/&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/journal/public-side-project-taalk.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/public-side-project-taalk.html</guid>
+			</item>
+		
+			<item>
 				<title>Ripartire da zero</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -18,8 +33,8 @@ Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita v
 </description>
 				
 				<pubDate>Fri, 15 Jun 2018 00:00:00 +0200</pubDate>
-				<link>/journal/ripatire-da-zero.html</link>
-				<guid isPermaLink="true">/journal/ripatire-da-zero.html</guid>
+				<link>http://localhost:4000/journal/ripatire-da-zero.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/ripatire-da-zero.html</guid>
 			</item>
 		
 			<item>
@@ -33,8 +48,8 @@ Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita v
 </description>
 				
 				<pubDate>Mon, 16 Apr 2018 00:00:00 +0200</pubDate>
-				<link>/journal/side-project-1-migliorare-inglese.html</link>
-				<guid isPermaLink="true">/journal/side-project-1-migliorare-inglese.html</guid>
+				<link>http://localhost:4000/journal/side-project-1-migliorare-inglese.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/side-project-1-migliorare-inglese.html</guid>
 			</item>
 		
 			<item>
@@ -48,8 +63,8 @@ Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita v
 </description>
 				
 				<pubDate>Sat, 14 Apr 2018 00:00:00 +0200</pubDate>
-				<link>/journal/sviluppare-un-side-project-in-pubblico.html</link>
-				<guid isPermaLink="true">/journal/sviluppare-un-side-project-in-pubblico.html</guid>
+				<link>http://localhost:4000/journal/sviluppare-un-side-project-in-pubblico.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/sviluppare-un-side-project-in-pubblico.html</guid>
 			</item>
 		
 			<item>
@@ -63,8 +78,8 @@ Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita v
 </description>
 				
 				<pubDate>Fri, 13 Apr 2018 00:00:00 +0200</pubDate>
-				<link>/journal/il-mio-goal.html</link>
-				<guid isPermaLink="true">/journal/il-mio-goal.html</guid>
+				<link>http://localhost:4000/journal/il-mio-goal.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/il-mio-goal.html</guid>
 			</item>
 		
 			<item>
@@ -79,8 +94,8 @@ Devo essere sincero, non sono mai stato convinto al 100% di andare, ma la sicure
 </description>
 				
 				<pubDate>Wed, 11 Apr 2018 00:00:00 +0200</pubDate>
-				<link>/journal/finisce-qui.html</link>
-				<guid isPermaLink="true">/journal/finisce-qui.html</guid>
+				<link>http://localhost:4000/journal/finisce-qui.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/finisce-qui.html</guid>
 			</item>
 		
 			<item>
@@ -95,8 +110,8 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Sat, 07 Apr 2018 00:00:00 +0200</pubDate>
-				<link>/journal/la-tecnica-perfetta-pizza.html</link>
-				<guid isPermaLink="true">/journal/la-tecnica-perfetta-pizza.html</guid>
+				<link>http://localhost:4000/journal/la-tecnica-perfetta-pizza.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/la-tecnica-perfetta-pizza.html</guid>
 			</item>
 		
 			<item>
@@ -110,8 +125,8 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 06 Apr 2018 00:00:00 +0200</pubDate>
-				<link>/journal/se-non-corri-sei-un-perdente.html</link>
-				<guid isPermaLink="true">/journal/se-non-corri-sei-un-perdente.html</guid>
+				<link>http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</guid>
 			</item>
 		
 			<item>
@@ -125,8 +140,8 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
-				<link>/journal/siti-dove-farsi-ispirare.html</link>
-				<guid isPermaLink="true">/journal/siti-dove-farsi-ispirare.html</guid>
+				<link>http://localhost:4000/journal/siti-dove-farsi-ispirare.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/siti-dove-farsi-ispirare.html</guid>
 			</item>
 		
 			<item>
@@ -140,23 +155,8 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 04 Apr 2018 00:00:00 +0200</pubDate>
-				<link>/journal/no-fear-zi.html</link>
-				<guid isPermaLink="true">/journal/no-fear-zi.html</guid>
-			</item>
-		
-			<item>
-				<title>Un blog da un minuto</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;La difficoltà nel fare una cosa sta nell’iniziarla, per questo ho deciso di iniziare un blog che sicuramente fallirà essendo questa la &lt;strong&gt;TERZA VOLTA&lt;/strong&gt; che provo ad avviarne uno, ma la speranza è l’ultima a morire.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Tue, 03 Apr 2018 00:00:00 +0200</pubDate>
-				<link>/journal/about-the-blog.html</link>
-				<guid isPermaLink="true">/journal/about-the-blog.html</guid>
+				<link>http://localhost:4000/journal/no-fear-zi.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/no-fear-zi.html</guid>
 			</item>
 		
 	</channel>
