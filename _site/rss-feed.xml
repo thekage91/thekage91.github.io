@@ -7,6 +7,22 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>About Taalk #2: Sviluppo MVP</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Vediamo in questo veloce post cosa sarà l’MVP di Taalk e cosa potrà fare un utente che deciderà di registrarsi.
+Prima di tutto, se non sai cos’è un MVP, &lt;a href=&quot;https://it.wikipedia.org/wiki/Minimum_Viable_Product&quot; target=&quot;_blank&quot;&gt;leggi qui&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 11 Jul 2018 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/side-project/about-taalk-mvp.html</link>
+				<guid isPermaLink="true">http://localhost:4000/side-project/about-taalk-mvp.html</guid>
+			</item>
+		
+			<item>
 				<title>Side project #1: Taalk</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -142,21 +158,6 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 				<pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/journal/siti-dove-farsi-ispirare.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/siti-dove-farsi-ispirare.html</guid>
-			</item>
-		
-			<item>
-				<title>No fear zi</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Nel momento in cui ti trovi nella situazione di dover fare una scelta importante, &lt;strong&gt;hai paura&lt;/strong&gt;, diciamoci la verità, è così.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Wed, 04 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/no-fear-zi.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/no-fear-zi.html</guid>
 			</item>
 		
 	</channel>
