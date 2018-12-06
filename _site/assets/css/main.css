@@ -575,5 +575,5 @@ a.btn.btn-block {
   width: 100%;
 }
 
-.pulse {
+@keyframes pulse {
 }

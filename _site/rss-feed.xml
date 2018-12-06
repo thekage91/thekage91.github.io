@@ -7,6 +7,22 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Questo blog è stato un fallimento</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Ho aperto questo blog con l’idea di condividere qualcosa di interessante che riguardasse in particolare quello che &lt;strong&gt;&lt;em&gt;avrei voluto fare&lt;/em&gt;&lt;/strong&gt; ma che chiaramente non sono riuscito a fare.
+L’idea era quella di documentare i progressi che avrei fatto per arrivare al mio obiettivo e cioè, quello di essere &lt;strong&gt;&lt;u&gt;un nomade digitiale&lt;/u&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 06 Dec 2018 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/blog/un-blog-un-fallimento.html</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/un-blog-un-fallimento.html</guid>
+			</item>
+		
+			<item>
 				<title>About Taalk #2: Sviluppo MVP</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -143,21 +159,6 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 				<pubDate>Fri, 06 Apr 2018 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</guid>
-			</item>
-		
-			<item>
-				<title>5 siti utilissimi per farsi ispirare</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;h2 id=&quot;indie-hackers&quot;&gt;&lt;a href=&quot;https://www.indiehackers.com/&quot;&gt;Indie Hackers&lt;/a&gt;&lt;/h2&gt;
-
-</description>
-				
-				<pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/siti-dove-farsi-ispirare.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/siti-dove-farsi-ispirare.html</guid>
 			</item>
 		
 	</channel>
