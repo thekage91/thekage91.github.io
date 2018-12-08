@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ho imparato ad apprezzare il tramonto</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Ho imparato ad apprezzare il tramonto ed i suoi colori. Questa è una cosa nuova per me e mi sta affascinando come se fossi un bambino.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 08 Dec 2018 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/life/il-tramonto.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/il-tramonto.html</guid>
+			</item>
+		
+			<item>
 				<title>Questo blog è stato un fallimento</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -144,21 +159,6 @@ Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
 				<pubDate>Sat, 07 Apr 2018 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/journal/la-tecnica-perfetta-pizza.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/la-tecnica-perfetta-pizza.html</guid>
-			</item>
-		
-			<item>
-				<title>Se non corri sei un perdente</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Una cosa che non ho mai capito nel mondo è la fretta, poi a Londra, capirai!&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 06 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/se-non-corri-sei-un-perdente.html</guid>
 			</item>
 		
 	</channel>
