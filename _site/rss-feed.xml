@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Dov'è la tua casa?</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;L’altro giorno ero su TED e stavo guardando un video, il titolo era: &lt;a href=&quot;https://www.ted.com/talks/pico_iyer_where_is_home&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Where is the home?&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 10 Dec 2018 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/life/sentirsi-a-casa.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/sentirsi-a-casa.html</guid>
+			</item>
+		
+			<item>
 				<title>Ho imparato ad apprezzare il tramonto</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -143,22 +158,6 @@ Devo essere sincero, non sono mai stato convinto al 100% di andare, ma la sicure
 				<pubDate>Wed, 11 Apr 2018 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/journal/finisce-qui.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/finisce-qui.html</guid>
-			</item>
-		
-			<item>
-				<title>La tecnica perfetta per calcolare quanta massa mettere in una teglia di pizza</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Da appassionato di pizza oramai da anni, ho accumulato una serie di consigli pratici.&lt;br /&gt;
-Oggi il primo. ☝️ La tecnica perfetta è….&lt;br /&gt;&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Sat, 07 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/la-tecnica-perfetta-pizza.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/la-tecnica-perfetta-pizza.html</guid>
 			</item>
 		
 	</channel>
