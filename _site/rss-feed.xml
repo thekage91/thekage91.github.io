@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Una stanza vuota</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;In questo periodo mi capita spesso di osservare me stesso al fine di capire come mi sento. In particolare cerco di mantenere l’attenzione rivolta dentro di me per scrutare i pensieri, le emozioni, i sentimenti che passano e che vanno a caratterizzare il mio stato d’animo in quel momento.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 04 Jan 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/life/stanza-vuota.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/stanza-vuota.html</guid>
+			</item>
+		
+			<item>
 				<title>Come essere ricchi</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -142,21 +157,6 @@ Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita v
 				<pubDate>Sat, 14 Apr 2018 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/journal/sviluppare-un-side-project-in-pubblico.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/sviluppare-un-side-project-in-pubblico.html</guid>
-			</item>
-		
-			<item>
-				<title>Il mio goal</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;L’esperienza a Londra mi ha insegnato tantissime cose, la cosa più importante è: &lt;strong&gt;farmi capire cosa voglio!&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 13 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/il-mio-goal.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/il-mio-goal.html</guid>
 			</item>
 		
 	</channel>
