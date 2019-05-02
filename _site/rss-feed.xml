@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Un puzzle</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Arriva un momento un cui sembra che manchi qualcosa in quello che abbiamo.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 02 May 2019 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/life/un-puzzle.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/un-puzzle.html</guid>
+			</item>
+		
+			<item>
 				<title>Innamorati dei due di picche</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -142,21 +157,6 @@ Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita v
 				<pubDate>Fri, 15 Jun 2018 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/journal/ripatire-da-zero.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/ripatire-da-zero.html</guid>
-			</item>
-		
-			<item>
-				<title>Side project #1: Migliorare il proprio inglese</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Avendo vissuto per due mesi a Londra ho capito quanto è importante mantenere allenato il proprio inglese ed il modo migliore per farlo è parlare.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 16 Apr 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/side-project-1-migliorare-inglese.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/side-project-1-migliorare-inglese.html</guid>
 			</item>
 		
 	</channel>
