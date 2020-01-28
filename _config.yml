@@ -12,6 +12,8 @@
 
 # jekyll-paginate configuration
 paginate:            5
+paginate_path: "/blog/:num/"
+
 
 # Build settings
 markdown:            kramdown
@@ -27,3 +29,15 @@ author:              'Davide'
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+sass:
+    load_paths:
+        - _sass
+        - node_modules
+    exclude: 
+        - LICENSE
+        - Makefile
+        - README.md
+        - package.json
+        - package-lock.json
+        - yarn.lock

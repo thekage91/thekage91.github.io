@@ -1,0 +1,90 @@
+---
+---
+
+@import "variables";
+
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+
+ header {
+    padding: 156px 0 100px;
+  }
+  
+  body .scroll-border{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    border-image: linear-gradient(to bottom, rgb(117, 249, 79),rgba(0,0,0,0)) 1 40%;
+    border-width: 5px;
+    border-style: solid;
+  }
+  
+  section {
+    padding: 150px 0;
+  }
+  
+  body,
+  footer{
+    background: rgb(39, 39, 39);
+    font-family: $custom-font-family !important;
+  }
+  
+  .yo,
+  .post-title{
+    font-size: 150px !important;
+    font-weight: bolder;
+  }
+  
+  .yo,
+  .lead a,
+  .posts h1 a,
+  .post-title{
+    color: rgb(117, 249, 79)
+  }
+
+  .post-title {
+    align-content: center;
+    text-align: center;
+  }
+  
+  .lead a,
+  #contact a{
+    color: rgb(117, 249, 79);
+    text-decoration: underline;
+  }
+  
+  .lead{
+    font-size: 30px;
+    font-weight: normal;
+  }
+  
+  
+  #contact a,
+  #contact .btn {
+    font-size: 30px;
+  }
+  
+  .underline{
+    border-bottom-width: 2px;
+  }
+  
+  footer a{
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 576px){
+    body .scroll-border{
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+    }
+  
+    #contact .btn,
+    #contact a{
+      font-size: 20px;
+    }
+  }

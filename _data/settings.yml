@@ -7,8 +7,8 @@ google-ID: 'UA-116898648-2'
 
 menu:
 #- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Post', path: 'menu', url: 'writing.html'}
-- {name: 'Future post', path: 'menu', url: 'future.html'}
+- {name: 'Home', path: '#'}
+- {name: 'Blog', path: 'blog'}
 
 #- {name: 'Contact', path: 'menu', url: 'contact.html'}
 

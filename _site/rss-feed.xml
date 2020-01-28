@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Siamo il risultato delle nostre esperienze</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Siamo fatti tutti diversamente e la cosa che differenzia ognuno di noi, secondo la mia opinione, sono le esperienze che ognuno di noi ha vissuto e come le ha vissuto.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 14 Jun 2019 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/life/esperienze.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/esperienze.html</guid>
+			</item>
+		
+			<item>
 				<title>Un puzzle</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -141,22 +156,6 @@ Prima di tutto, se non sai cos’è un MVP, &lt;a href=&quot;https://it.wikipedi
 				<pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/journal/public-side-project-taalk.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/public-side-project-taalk.html</guid>
-			</item>
-		
-			<item>
-				<title>Ripartire da zero</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Ogni tanto chiedo a me stesso come sarebbe ripatire da zero, proprio dalle basi, ripartire da una situazione &lt;strong&gt;scarica&lt;/strong&gt;.
-Viviamo una vita piena di impegni, ricca di obiettivi da raggiungere, una vita veloce, che ci porta a perdere la bussola.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 15 Jun 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/ripatire-da-zero.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/ripatire-da-zero.html</guid>
 			</item>
 		
 	</channel>
