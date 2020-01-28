@@ -42,8 +42,24 @@
   .yo,
   .lead a,
   .posts h1 a,
+  .pagination .pagination-button,
   .post-title{
-    color: rgb(117, 249, 79)
+    color: rgb(117, 249, 79);
+  }
+
+  .pagination .pagination-button {
+    border-color: rgb(117, 249, 79);
+
+    &:hover{
+      background-color: $grey;
+      color: $black;
+    }
+  }
+
+  .posts,
+  .pagination {
+    margin-left: $default-margin;
+    margin-right: $default-margin;
   }
 
   .post-title {

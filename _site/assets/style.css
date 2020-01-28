@@ -31,8 +31,20 @@ footer {
 .yo,
 .lead a,
 .posts h1 a,
+.pagination .pagination-button,
 .post-title {
   color: #75f94f; }
+
+.pagination .pagination-button {
+  border-color: #75f94f; }
+  .pagination .pagination-button:hover {
+    background-color: #75f94f;
+    color: #272727; }
+
+.posts,
+.pagination {
+  margin-left: 1.15rem;
+  margin-right: 1.15rem; }
 
 .post-title {
   align-content: center;

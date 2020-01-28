@@ -5,7 +5,7 @@
 @import "bootstrap/scss/bootstrap";
 
 body {
-    background: $body-bg;
+  background: $body-bg;
 }
 
 .content {
@@ -128,11 +128,20 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
-}
+  margin-right: $default-margin;
+  margin-left: $default-margin;
 
-.masthead a:hover {
-  color: black;
+  font-family: "Quattrocento Sans", sans-serif;
+
+  a {
+    color: $grey !important;
+    font-weight: bold;
+
+    &:hover {
+      color: $grey;
+      text-decoration: underline;
+    }
+  }
 }
 
 .masthead-title a {
