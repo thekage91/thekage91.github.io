@@ -28,18 +28,24 @@ footer {
   font-size: 150px !important;
   font-weight: bolder; }
 
+a,
 .yo,
 .lead a,
 .posts h1 a,
 .pagination .pagination-button,
 .post-title {
-  color: #75f94f; }
+  color: #75f94f;
+  text-decoration: none; }
 
 .pagination .pagination-button {
   border-color: #75f94f; }
   .pagination .pagination-button:hover {
     background-color: #75f94f;
     color: #272727; }
+
+a:hover {
+  color: #75f94f;
+  text-decoration: underline !important; }
 
 .posts,
 .pagination {

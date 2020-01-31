@@ -188,7 +188,7 @@ hr {
   display: block;
   margin-top: 3px;
   margin-bottom: 1rem;
-  color: #white;
+  color: white;
   font-family: "Quattrocento Sans", sans-serif;
   font-size: 0.8rem;
 }
@@ -200,16 +200,21 @@ hr {
 }
 
 .related {
+  margin-top: 5rem;
   padding-bottom: 2rem;
-}
 
-.related-posts {
-  padding-left: 0px;
-  list-style: none;
-}
+  h4{
+    color: white;
+  }
 
-.related-posts a {
-  text-decoration: none;
+  .related-posts {
+    padding-left: 0px;
+    list-style: none;
+  }
+
+  .related-posts a {
+    text-decoration: none;
+  }
 }
 
 /*

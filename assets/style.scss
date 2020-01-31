@@ -39,12 +39,14 @@
     font-weight: bolder;
   }
   
+  a,
   .yo,
   .lead a,
   .posts h1 a,
   .pagination .pagination-button,
   .post-title{
-    color: rgb(117, 249, 79);
+    color: $green;
+    text-decoration: none;
   }
 
   .pagination .pagination-button {
@@ -54,6 +56,11 @@
       background-color: $grey;
       color: $black;
     }
+  }
+
+  a:hover{
+    color: $green;
+    text-decoration: underline !important;
   }
 
   .posts,
