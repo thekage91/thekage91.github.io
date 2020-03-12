@@ -26,7 +26,9 @@ footer {
 .yo,
 .post-title {
   font-size: 150px !important;
-  font-weight: bolder; }
+  font-weight: bolder;
+  align-content: center;
+  text-align: center; }
 
 a,
 .yo,
@@ -52,10 +54,6 @@ a:hover {
   margin-left: 1.15rem;
   margin-right: 1.15rem; }
 
-.post-title {
-  align-content: center;
-  text-align: center; }
-
 .lead a,
 #contact a {
   color: #75f94f;
@@ -72,10 +70,37 @@ a:hover {
 .underline {
   border-bottom-width: 2px; }
 
+/**
+* Forms
+**/
+form legend {
+  display: inline-block; }
+form .form-control {
+  background-color: transparent;
+  border: 2px solid #75f94f;
+  border-radius: 0px; }
+
+/**
+* Buttons
+**/
+.btn-primary {
+  background-color: #75f94f;
+  border-radius: 0px;
+  border: none;
+  color: #272727; }
+
 footer a {
   text-decoration: underline; }
 
 @media (max-width: 576px) {
+  .yo,
+  .post-title {
+    font-size: 40px !important;
+    font-weight: bolder; }
+
+  .lead {
+    font-size: 20px; }
+
   body .scroll-border {
     margin-left: 20px;
     margin-right: 20px;

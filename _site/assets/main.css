@@ -5,6 +5,7 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+@import url(@fontawesome.all.min.css);
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7870,10 +7871,10 @@ hr {
   margin-right: 1.15rem;
   margin-left: 1.15rem;
   font-family: "Quattrocento Sans", sans-serif; }
-  .masthead a {
+  .masthead a, .masthead button, .masthead span {
     color: #75f94f !important;
     font-weight: bold; }
-    .masthead a:hover {
+    .masthead a:hover, .masthead button:hover, .masthead span:hover {
       color: #75f94f;
       text-decoration: underline; }
 
@@ -8097,6 +8098,7 @@ form legend {
   margin-bottom: 5px;
   font-weight: 100; }
 
+/*
 form .form-control {
   padding: 8px;
   margin-bottom: 5px;
@@ -8104,16 +8106,17 @@ form .form-control {
   height: 70%;
   font-size: 12px;
   border: 1px solid rgba(0, 0, 0, 0.2);
-  border-radius: 2px; }
-
+  border-radius: 2px;
+}*/
+/*
 form button {
   text-decoration: underline;
   color: #333;
   background-color: transparent;
   border: none;
   font-family: consolas, monaco, courier, "courier new", fixed-width;
-  font-size: 18px; }
-
+  font-size: 18px;
+}*/
 /*
   Social media icons
 */

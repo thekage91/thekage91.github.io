@@ -37,8 +37,11 @@
   .post-title{
     font-size: 150px !important;
     font-weight: bolder;
+    align-content: center;
+    text-align: center;
   }
-  
+
+
   a,
   .yo,
   .lead a,
@@ -69,11 +72,6 @@
     margin-right: $default-margin;
   }
 
-  .post-title {
-    align-content: center;
-    text-align: center;
-  }
-  
   .lead a,
   #contact a{
     color: rgb(117, 249, 79);
@@ -94,12 +92,48 @@
   .underline{
     border-bottom-width: 2px;
   }
+
+  /**
+  * Forms
+  **/
+  form{
+    legend {
+      display: inline-block;
+    }
+
+    .form-control {
+      background-color: transparent;
+      border: 2px solid $green;
+      border-radius: 0px;
+    }
+  }
+
+  /**
+  * Buttons
+  **/
+  .btn-primary {
+    background-color: $green;
+    border-radius: 0px;
+    border: none;
+    color: $black;
+  }
+  
   
   footer a{
     text-decoration: underline;
   }
   
   @media (max-width: 576px){
+    .yo,
+    .post-title{
+      font-size: 40px !important;
+      font-weight: bolder;
+    }
+
+    .lead {
+      font-size: 20px;
+    }
+
     body .scroll-border{
       margin-left: 20px;
       margin-right: 20px;

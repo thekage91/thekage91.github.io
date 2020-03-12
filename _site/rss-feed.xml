@@ -7,155 +7,44 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Siamo il risultato delle nostre esperienze</title>
+				<title>How to start a blog with Jekyll</title>
 				
 					<dc:creator>Davide</dc:creator>
 				
 				
-					<description>&lt;p&gt;Siamo fatti tutti diversamente e la cosa che differenzia ognuno di noi, secondo la mia opinione, sono le esperienze che ognuno di noi ha vissuto e come le ha vissuto.&lt;/p&gt;
-
+					<description>&lt;p&gt;Hi,
+thank&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 14 Jun 2019 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/life/esperienze.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/esperienze.html</guid>
+				<pubDate>Thu, 12 Mar 2020 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/journal/why-this-blog.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/why-this-blog.html</guid>
 			</item>
 		
 			<item>
-				<title>Un puzzle</title>
+				<title>How to start</title>
 				
 					<dc:creator>Davide</dc:creator>
 				
 				
-					<description>&lt;p&gt;Arriva un momento un cui sembra che manchi qualcosa in quello che abbiamo.&lt;/p&gt;
-
+					<description>&lt;form action=&quot;https://sprintstudio.us11.list-manage.com/subscribe/post?u=baa6a96ac00514e2d994c55e2&amp;amp;id=10b14f6753&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate&quot; target=&quot;_blank&quot; validate=&quot;&quot;&gt;
+	&lt;legend&gt;Iscriviti nella Newsletter&lt;/legend&gt;
+	&lt;div class=&quot;form-group&quot;&gt;
+		&lt;input type=&quot;email&quot; name=&quot;EMAIL&quot; class=&quot;form-control required email&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;La tua email&quot; required=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;form-group&quot;&gt;
+		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
+    	&lt;label class=&quot;control-label&quot;&gt;“Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;form-group&quot;&gt;
+		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
 </description>
 				
-				<pubDate>Thu, 02 May 2019 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/life/un-puzzle.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/un-puzzle.html</guid>
-			</item>
-		
-			<item>
-				<title>Innamorati dei due di picche</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Innamorati dei due di picche perché saranno la cosa che succederà più di frequente nella tua vita.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 18 Jan 2019 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/life/innamorati-dei-due-di-picche.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/innamorati-dei-due-di-picche.html</guid>
-			</item>
-		
-			<item>
-				<title>Una stanza vuota</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;In questo periodo mi capita spesso di osservare me stesso al fine di capire come mi sento. In particolare cerco di mantenere l’attenzione rivolta dentro di me per scrutare i pensieri, le emozioni, i sentimenti che passano e che vanno a caratterizzare il mio stato d’animo in quel momento.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 04 Jan 2019 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/life/stanza-vuota.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/stanza-vuota.html</guid>
-			</item>
-		
-			<item>
-				<title>Come essere ricchi</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Se ora ti facessi una domanda:&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Wed, 19 Dec 2018 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/life/come-essere-ricco.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/come-essere-ricco.html</guid>
-			</item>
-		
-			<item>
-				<title>Dov'è la tua casa?</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;L’altro giorno ero su TED e stavo guardando un video, il titolo era: &lt;a href=&quot;https://www.ted.com/talks/pico_iyer_where_is_home&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Where is the home?&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 10 Dec 2018 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/life/sentirsi-a-casa.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/sentirsi-a-casa.html</guid>
-			</item>
-		
-			<item>
-				<title>Ho imparato ad apprezzare il tramonto</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Ho imparato ad apprezzare il tramonto ed i suoi colori. Questa è una cosa nuova per me e mi sta affascinando come se fossi un bambino.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Sat, 08 Dec 2018 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/life/il-tramonto.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/il-tramonto.html</guid>
-			</item>
-		
-			<item>
-				<title>Questo blog è stato un fallimento</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Ho aperto questo blog con l’idea di condividere qualcosa di interessante che riguardasse in particolare quello che &lt;strong&gt;&lt;em&gt;avrei voluto fare&lt;/em&gt;&lt;/strong&gt; ma che chiaramente non sono riuscito a fare.
-L’idea era quella di documentare i progressi che avrei fatto per arrivare al mio obiettivo e cioè, quello di essere &lt;strong&gt;&lt;u&gt;un nomade digitiale&lt;/u&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 06 Dec 2018 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/blog/un-blog-un-fallimento.html</link>
-				<guid isPermaLink="true">http://localhost:4000/blog/un-blog-un-fallimento.html</guid>
-			</item>
-		
-			<item>
-				<title>About Taalk #2: Sviluppo MVP</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Vediamo in questo veloce post cosa sarà l’MVP di Taalk e cosa potrà fare un utente che deciderà di registrarsi.
-Prima di tutto, se non sai cos’è un MVP, &lt;a href=&quot;https://it.wikipedia.org/wiki/Minimum_Viable_Product&quot; target=&quot;_blank&quot;&gt;leggi qui&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Wed, 11 Jul 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/side-project/about-taalk-mvp.html</link>
-				<guid isPermaLink="true">http://localhost:4000/side-project/about-taalk-mvp.html</guid>
-			</item>
-		
-			<item>
-				<title>Side project #1: Taalk</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Qualche post fa, ho lanciato una sfida a me stesso: &lt;strong&gt;&lt;a href=&quot;http://dailyminute.sprintstudio.co/journal/sviluppare-un-side-project-in-pubblico.html&quot;&gt;Sviluppare un side-project in pubblico&lt;/a&gt;&lt;/strong&gt; dal primo giorno, condividendo i progressi qui e su &lt;a href=&quot;https://www.instagram.com/davidesicignani/&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/public-side-project-taalk.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/public-side-project-taalk.html</guid>
+				<pubDate>Thu, 12 Mar 2020 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/journal/how-to-start.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/how-to-start.html</guid>
 			</item>
 		
 	</channel>
