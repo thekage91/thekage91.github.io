@@ -81,10 +81,6 @@
 <lastmod>2019-06-14T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/journal/my-covid-quarantine.html</loc>
-<lastmod>2020-03-23T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/menu/about.html</loc>
 </url>
 <url>
@@ -110,8 +106,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/4/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/blog/5/</loc>
 </url>
 </urlset>

@@ -7,23 +7,6 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>My quarantine:</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Hi, 
-sorry but this post will be very very short with some key points about my future task. 
-This is absolutely my first post in English on this blog and I would like to tell you what I am going to do during this quarantine due to Coronavirus.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/my-covid-quarantine.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/my-covid-quarantine.html</guid>
-			</item>
-		
-			<item>
 				<title>Siamo il risultato delle nostre esperienze</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -158,6 +141,21 @@ Prima di tutto, se non sai cos’è un MVP, &lt;a href=&quot;https://it.wikipedi
 				<pubDate>Wed, 11 Jul 2018 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/side-project/about-taalk-mvp.html</link>
 				<guid isPermaLink="true">http://localhost:4000/side-project/about-taalk-mvp.html</guid>
+			</item>
+		
+			<item>
+				<title>Side project #1: Taalk</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;p&gt;Qualche post fa, ho lanciato una sfida a me stesso: &lt;strong&gt;&lt;a href=&quot;http://dailyminute.sprintstudio.co/journal/sviluppare-un-side-project-in-pubblico.html&quot;&gt;Sviluppare un side-project in pubblico&lt;/a&gt;&lt;/strong&gt; dal primo giorno, condividendo i progressi qui e su &lt;a href=&quot;https://www.instagram.com/davidesicignani/&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/journal/public-side-project-taalk.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/public-side-project-taalk.html</guid>
 			</item>
 		
 	</channel>

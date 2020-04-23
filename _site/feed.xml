@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-08T14:27:07+02:00</updated><id>http://localhost:4000/</id><title type="html">An Indie Hacker blog</title><subtitle></subtitle><author><name>Davide Sicignani</name></author><entry><title type="html">My quarantine:</title><link href="http://localhost:4000/journal/my-covid-quarantine.html" rel="alternate" type="text/html" title="My quarantine:" /><published>2020-03-23T00:00:00+01:00</published><updated>2020-03-23T00:00:00+01:00</updated><id>http://localhost:4000/journal/my-covid-quarantine</id><content type="html" xml:base="http://localhost:4000/journal/my-covid-quarantine.html">&lt;p&gt;Hi, 
-sorry but this post will be very very short with some key points about my future task. 
-This is absolutely my first post in English on this blog and I would like to tell you what I am going to do during this quarantine due to Coronavirus.&lt;/p&gt;
-
-&lt;p&gt;I am in Italy and the entire country is in lockdown and we must to stay at home to avoid the diffusion of the virus. My mood isn’t very well but I am trying to focus on something new to enhance it.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-i-am-going-to-do&quot;&gt;What I am going to do&lt;/h2&gt;
-&lt;p&gt;I am trying to building something to relaunch my job and my jurney. Everything will be expressed by a task list&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Launch &lt;a href=&quot;spacedcards.com&quot;&gt;spacedcards.com&lt;/a&gt; around Anki fields&lt;/li&gt;
-  &lt;li&gt;Develop new site for my company &lt;a href=&quot;sprintstudio.co&quot;&gt;Sprint Studio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Write more post on this blog documenting my journey&lt;/li&gt;
-  &lt;li&gt;Read more books, I hope to read two books during this time&lt;/li&gt;
-  &lt;li&gt;Grow my English skills and my vocabulary&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Davide</name></author><category term="documentation" /><category term="development" /><category term="life" /><summary type="html">Hi, sorry but this post will be very very short with some key points about my future task. This is absolutely my first post in English on this blog and I would like to tell you what I am going to do during this quarantine due to Coronavirus.</summary></entry><entry><title type="html">Siamo il risultato delle nostre esperienze</title><link href="http://localhost:4000/life/esperienze.html" rel="alternate" type="text/html" title="Siamo il risultato delle nostre esperienze" /><published>2019-06-14T00:00:00+02:00</published><updated>2019-06-14T00:00:00+02:00</updated><id>http://localhost:4000/life/esperienze</id><content type="html" xml:base="http://localhost:4000/life/esperienze.html">&lt;p&gt;Siamo fatti tutti diversamente e la cosa che differenzia ognuno di noi, secondo la mia opinione, sono le esperienze che ognuno di noi ha vissuto e come le ha vissuto.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-23T11:25:09+02:00</updated><id>http://localhost:4000/</id><title type="html">An Indie Hacker blog</title><subtitle></subtitle><author><name>Davide Sicignani</name></author><entry><title type="html">Siamo il risultato delle nostre esperienze</title><link href="http://localhost:4000/life/esperienze.html" rel="alternate" type="text/html" title="Siamo il risultato delle nostre esperienze" /><published>2019-06-14T00:00:00+02:00</published><updated>2019-06-14T00:00:00+02:00</updated><id>http://localhost:4000/life/esperienze</id><content type="html" xml:base="http://localhost:4000/life/esperienze.html">&lt;p&gt;Siamo fatti tutti diversamente e la cosa che differenzia ognuno di noi, secondo la mia opinione, sono le esperienze che ognuno di noi ha vissuto e come le ha vissuto.&lt;/p&gt;
 
 &lt;p&gt;Non è raro fermarsi a riflettere su un’esperienza vissuta tanti anni fa e che magari ancora oggi ha lasciato un segno. Il risultato dell’esperienza è proprio il segno che ti lascia e come lo rendi tuo.&lt;/p&gt;
 
@@ -341,4 +327,44 @@ Gran parte delle cose che leggerai nella lista qui sotto le ho concluse in circa
 
 &lt;p&gt;&lt;a class=&quot;btn btn-shadow pulse&quot; href=&quot;https://www.instagram.com/stories/highlights/17848900732251658/&quot; target=&quot;_blank&quot;&gt;
 Segui le mie storie su Instagram
-&lt;/a&gt;&lt;/p&gt;</content><author><name>Davide</name></author><category term="side-project" /><category term="education" /><category term="business" /><summary type="html">Vediamo in questo veloce post cosa sarà l’MVP di Taalk e cosa potrà fare un utente che deciderà di registrarsi. Prima di tutto, se non sai cos’è un MVP, leggi qui.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/about-taalk.jpg" /></entry></feed>
+&lt;/a&gt;&lt;/p&gt;</content><author><name>Davide</name></author><category term="side-project" /><category term="education" /><category term="business" /><summary type="html">Vediamo in questo veloce post cosa sarà l’MVP di Taalk e cosa potrà fare un utente che deciderà di registrarsi. Prima di tutto, se non sai cos’è un MVP, leggi qui.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/about-taalk.jpg" /></entry><entry><title type="html">Side project #1: Taalk</title><link href="http://localhost:4000/journal/public-side-project-taalk.html" rel="alternate" type="text/html" title="Side project #1: Taalk" /><published>2018-06-25T00:00:00+02:00</published><updated>2018-06-25T00:00:00+02:00</updated><id>http://localhost:4000/journal/public-side-project-taalk</id><content type="html" xml:base="http://localhost:4000/journal/public-side-project-taalk.html">&lt;p&gt;Qualche post fa, ho lanciato una sfida a me stesso: &lt;strong&gt;&lt;a href=&quot;http://dailyminute.sprintstudio.co/journal/sviluppare-un-side-project-in-pubblico.html&quot;&gt;Sviluppare un side-project in pubblico&lt;/a&gt;&lt;/strong&gt; dal primo giorno, condividendo i progressi qui e su &lt;a href=&quot;https://www.instagram.com/davidesicignani/&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se non sai di che progetto sto parlando, allora &lt;a href=&quot;http://dailyminute.sprintstudio.co/journal/side-project-1-migliorare-inglese.html&quot;&gt;leggi qui&lt;/a&gt; così potrai saperne di più.&lt;/p&gt;
+
+&lt;p&gt;E’ arrivato il momento di scrivere due update per farti sapere come sta andando (pensavo che la cosa morisse, invece no!).&lt;/p&gt;
+
+&lt;h2 id=&quot;il-nome&quot;&gt;Il nome&lt;/h2&gt;
+&lt;p&gt;Attualmente la mia testa mi ha detto di chiamarlo &lt;strong&gt;Taalk&lt;/strong&gt;, che poi non è così male, ma non so se manterrò il nome.&lt;/p&gt;
+
+&lt;p&gt;Se hai idee su un possibile nome, scrivimi.&lt;/p&gt;
+
+&lt;h2 id=&quot;il-sito-web&quot;&gt;Il sito web&lt;/h2&gt;
+&lt;p&gt;Per natura siamo portati a complicarci sempre la vita, ed io sono il primo, però questa volta ho deciso di mantenere le cose semplicisssssssime.&lt;/p&gt;
+
+&lt;p&gt;Ho buttato giù un semplicissimo sito per presentare il servizio, sviluppato senza scrivere una riga di codice grazie a &lt;a href=&quot;https://carrd.co/&quot;&gt;Carrd&lt;/a&gt; ed integrando &lt;a href=&quot;https://www.typeform.com/&quot;&gt;Typeform&lt;/a&gt; per ricevere le iscrizioni degli utenti.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a class=&quot;btn&quot; href=&quot;https://taalk.sprintstudio.co/&quot; target=&quot;_blank&quot;&gt;Clicca qui&lt;/a&gt; per vedere il sito, mentre di seguito un paio di immagini&lt;/p&gt;
+
+&lt;h3 id=&quot;home&quot;&gt;Home&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/taalk-screen/screen-1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how-it-works&quot;&gt;How it works&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/taalk-screen/screen-2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;signup&quot;&gt;Signup&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/taalk-screen/screen-3.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fine!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;diffusione&quot;&gt;Diffusione&lt;/h2&gt;
+&lt;p&gt;Come lo sto diffondendo? Come procede?
+Ne parlerò in uno dei prossimi post 🤙🤙&lt;/p&gt;
+
+&lt;p&gt;Se ti vuoi iscrivere, allora clicca sul bottone qui sotto e crea il tuo profilo.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a class=&quot;btn btn-block btn-shadow&quot; href=&quot;https://taalk.sprintstudio.co/#signup&quot; target=&quot;_blank&quot;&gt;Crea il tuo profilo&lt;/a&gt; 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alla prossima!&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Qualche post fa, ho lanciato una sfida a me stesso: Sviluppare un side-project in pubblico dal primo giorno, condividendo i progressi qui e su Instagram.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/taalk.jpg" /></entry></feed>
