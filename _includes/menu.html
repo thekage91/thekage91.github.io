@@ -7,7 +7,7 @@
     {% endfor %}
   </nav>
   <button
-    class="navbar-toggler"
+    class="navbar-toggler d-md-none"
     type="button"
     data-toggle="collapse"
     data-target="#socialIcons"
@@ -17,7 +17,10 @@
   >
     <small>Follow me on</small>
   </button>
-  <nav class="collapse navbar-collapse social-icons" id="socialIcons">
+  <nav class="social-icons d-none d-md-block">
+    {% include social-icons.html %}
+  </nav>
+  <nav class="collapse navbar-collapse mx-auto social-icons d-md-none" id="socialIcons">
     {% include social-icons.html %}
   </nav>
 </div>

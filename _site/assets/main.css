@@ -7775,9 +7775,6 @@ a.text-dark:hover, a.text-dark:focus {
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6; } }
-body {
-  background: #fff; }
-
 .content {
   font-size: 20px; }
 
@@ -7803,7 +7800,9 @@ body {
   font-family: consolas, monaco, courier, "courier new", fixed-width;
   font-size: 18px;
   color: white;
-  line-height: 1.75rem; }
+  line-height: 1.75rem;
+  height: 100%;
+  background: #fff; }
 
 @media (max-width: 30em) {
   body {
@@ -7825,7 +7824,14 @@ h4,
 h5,
 h6 {
   font-family: "Quattrocento Sans", sans-serif;
-  color: #333; }
+  color: #75f94f; }
+
+.post h2,
+.post h3,
+.post h4,
+.post h5,
+.post h6 {
+  margin-top: 40px; }
 
 a {
   text-decoration: underline;
@@ -7871,10 +7877,14 @@ hr {
   margin-right: 1.15rem;
   margin-left: 1.15rem;
   font-family: "Quattrocento Sans", sans-serif; }
-  .masthead a, .masthead button, .masthead span {
+  .masthead a,
+  .masthead button,
+  .masthead span {
     color: #75f94f !important;
     font-weight: bold; }
-    .masthead a:hover, .masthead button:hover, .masthead span:hover {
+    .masthead a:hover,
+    .masthead button:hover,
+    .masthead span:hover {
       color: #75f94f;
       text-decoration: underline; }
 
@@ -7898,6 +7908,15 @@ hr {
 .thumbnail-container img {
   margin-top: -11.5%;
   margin-bottom: -11.5%; }
+
+/**
+* Card
+**/
+.card {
+  background-color: transparent;
+  border: 1px solid #75f94f; }
+  .card .card-body {
+    height: 250px; }
 
 /*
   Post
@@ -7963,7 +7982,8 @@ hr {
 .footer {
   color: #999;
   text-align: center;
-  margin: 2rem; }
+  margin: 2rem;
+  bottom: 0; }
 
 .footer a {
   color: #999;
@@ -8080,23 +8100,6 @@ th,
 td {
   padding: 15px;
   text-align: left; }
-
-/* 
-  Forms
-
-*/
-form {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  align-items: center;
-  justify-content: center;
-  padding: 30px; }
-
-form legend {
-  font-size: 15px;
-  width: 50%;
-  margin-bottom: 5px;
-  font-weight: 100; }
 
 /*
 form .form-control {

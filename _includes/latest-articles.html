@@ -1,0 +1,35 @@
+<section>
+  <div class="row text-center">
+    <div class="col-12">
+      <h3>My latest articles</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3"></div>
+    {% for post in site.posts limit:3 %}
+    <div class="col-md-2">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">{{ post.title }}</h5>
+          <h6 class="card-subtitle mb-2 text-muted">
+            <span class="post-date"
+              ><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date |
+              date_to_string }} -
+              <i class="fa fa-clock-o" aria-hidden="true"></i> {% include
+              read-time.html %}</span
+            >
+          </h6>
+          <p class="card-text">
+            {{ post.content | strip_html | truncate: 100 }}
+          </p>
+        </div>
+        <div class="card-footer">
+          <a class="card-link mt-2" href="{{ site.github.url }}{{ post.url }}"
+            >Read article</a
+          >
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

@@ -1,14 +1,344 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-12T20:00:05+01:00</updated><id>http://localhost:4000/</id><title type="html">Dailyminute</title><subtitle>daily (si spera) 1 minute blog (sicuramente)</subtitle><author><name>Davide</name></author><entry><title type="html">How to start a blog with Jekyll</title><link href="http://localhost:4000/journal/why-this-blog.html" rel="alternate" type="text/html" title="How to start a blog with Jekyll" /><published>2020-03-12T00:00:00+01:00</published><updated>2020-03-12T00:00:00+01:00</updated><id>http://localhost:4000/journal/why-this-blog</id><content type="html" xml:base="http://localhost:4000/journal/why-this-blog.html">&lt;p&gt;Hi,
-thank&lt;/p&gt;</content><author><name>Davide</name></author><category term="documentation" /><category term="sample" /><summary type="html">Hi, thank</summary></entry><entry><title type="html">How to start</title><link href="http://localhost:4000/journal/how-to-start.html" rel="alternate" type="text/html" title="How to start" /><published>2020-03-12T00:00:00+01:00</published><updated>2020-03-12T00:00:00+01:00</updated><id>http://localhost:4000/journal/how-to-start</id><content type="html" xml:base="http://localhost:4000/journal/how-to-start.html">&lt;form action=&quot;https://sprintstudio.us11.list-manage.com/subscribe/post?u=baa6a96ac00514e2d994c55e2&amp;amp;id=10b14f6753&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate&quot; target=&quot;_blank&quot; validate=&quot;&quot;&gt;
-	&lt;legend&gt;Iscriviti nella Newsletter&lt;/legend&gt;
-	&lt;div class=&quot;form-group&quot;&gt;
-		&lt;input type=&quot;email&quot; name=&quot;EMAIL&quot; class=&quot;form-control required email&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;La tua email&quot; required=&quot;&quot; /&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;form-group&quot;&gt;
-		&lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; placeholder=&quot;Devi dare il consenso&quot; value=&quot;SI&quot; name=&quot;MMERGE3&quot; required=&quot;&quot; /&gt;
-    	&lt;label class=&quot;control-label&quot;&gt;“Ho letto le privacy policy e autorizzo il trattamento dei miei dati&lt;/label&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;form-group&quot;&gt;
-		&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Iscriviti&quot; href=&quot;&quot;&gt;Iscriviti&lt;/button&gt;
-	&lt;/div&gt;
-&lt;/form&gt;</content><author><name>Davide</name></author><category term="documentation" /><category term="sample" /><summary type="html">Iscriviti nella Newsletter “Ho letto le privacy policy e autorizzo il trattamento dei miei dati Iscriviti</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-08T14:27:07+02:00</updated><id>http://localhost:4000/</id><title type="html">An Indie Hacker blog</title><subtitle></subtitle><author><name>Davide Sicignani</name></author><entry><title type="html">My quarantine:</title><link href="http://localhost:4000/journal/my-covid-quarantine.html" rel="alternate" type="text/html" title="My quarantine:" /><published>2020-03-23T00:00:00+01:00</published><updated>2020-03-23T00:00:00+01:00</updated><id>http://localhost:4000/journal/my-covid-quarantine</id><content type="html" xml:base="http://localhost:4000/journal/my-covid-quarantine.html">&lt;p&gt;Hi, 
+sorry but this post will be very very short with some key points about my future task. 
+This is absolutely my first post in English on this blog and I would like to tell you what I am going to do during this quarantine due to Coronavirus.&lt;/p&gt;
+
+&lt;p&gt;I am in Italy and the entire country is in lockdown and we must to stay at home to avoid the diffusion of the virus. My mood isn’t very well but I am trying to focus on something new to enhance it.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-i-am-going-to-do&quot;&gt;What I am going to do&lt;/h2&gt;
+&lt;p&gt;I am trying to building something to relaunch my job and my jurney. Everything will be expressed by a task list&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Launch &lt;a href=&quot;spacedcards.com&quot;&gt;spacedcards.com&lt;/a&gt; around Anki fields&lt;/li&gt;
+  &lt;li&gt;Develop new site for my company &lt;a href=&quot;sprintstudio.co&quot;&gt;Sprint Studio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Write more post on this blog documenting my journey&lt;/li&gt;
+  &lt;li&gt;Read more books, I hope to read two books during this time&lt;/li&gt;
+  &lt;li&gt;Grow my English skills and my vocabulary&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Davide</name></author><category term="documentation" /><category term="development" /><category term="life" /><summary type="html">Hi, sorry but this post will be very very short with some key points about my future task. This is absolutely my first post in English on this blog and I would like to tell you what I am going to do during this quarantine due to Coronavirus.</summary></entry><entry><title type="html">Siamo il risultato delle nostre esperienze</title><link href="http://localhost:4000/life/esperienze.html" rel="alternate" type="text/html" title="Siamo il risultato delle nostre esperienze" /><published>2019-06-14T00:00:00+02:00</published><updated>2019-06-14T00:00:00+02:00</updated><id>http://localhost:4000/life/esperienze</id><content type="html" xml:base="http://localhost:4000/life/esperienze.html">&lt;p&gt;Siamo fatti tutti diversamente e la cosa che differenzia ognuno di noi, secondo la mia opinione, sono le esperienze che ognuno di noi ha vissuto e come le ha vissuto.&lt;/p&gt;
+
+&lt;p&gt;Non è raro fermarsi a riflettere su un’esperienza vissuta tanti anni fa e che magari ancora oggi ha lasciato un segno. Il risultato dell’esperienza è proprio il segno che ti lascia e come lo rendi tuo.&lt;/p&gt;
+
+&lt;p&gt;Sono convinto che se ognuno di noi si mettesse a riflettere su se stesso, troverebbe che la maggior parte delle cose che lo caratterizzano, sono frutto del passato, in particolare delle esperienze passate.&lt;/p&gt;
+
+&lt;p&gt;Questo potrebbe significare che basterebbe conoscere la storia di una persona per capire com’è fatta, e per capire i suoi comportamenti.&lt;/p&gt;
+
+&lt;p&gt;Allo stesso tempo la persona stessa potrebbe analizzare le proprie esperienze passate, dargli un nome e riconoscere cosa hanno significato così da conoscere meglio se stesso.&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Siamo fatti tutti diversamente e la cosa che differenzia ognuno di noi, secondo la mia opinione, sono le esperienze che ognuno di noi ha vissuto e come le ha vissuto.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/experience.jpg" /></entry><entry><title type="html">Un puzzle</title><link href="http://localhost:4000/life/un-puzzle.html" rel="alternate" type="text/html" title="Un puzzle" /><published>2019-05-02T00:00:00+02:00</published><updated>2019-05-02T00:00:00+02:00</updated><id>http://localhost:4000/life/un-puzzle</id><content type="html" xml:base="http://localhost:4000/life/un-puzzle.html">&lt;p&gt;Arriva un momento un cui sembra che manchi qualcosa in quello che abbiamo.&lt;/p&gt;
+
+&lt;p&gt;Ricerchiamo disperatamente quel pezzo del puzzle che manca. Lo cerchiamo talmente disperatamente che molto spesso incastriamo dei pezzi che tra loro non vanno bene.&lt;/p&gt;
+
+&lt;p&gt;Nella vita siamo tutti alla ricerca di qualcosa.&lt;/p&gt;
+
+&lt;p&gt;Siamo sempre alla ricerca di quel pezzo del puzzle che manca e che crediamo ci possa servire, ma alla fine è un pezzo tra tanti che ne mancano.&lt;/p&gt;
+
+&lt;p&gt;Mancherà sempre qualcosa che ci farà sentire come se non avessimo uno scopo e non sapessimo dove andare.&lt;/p&gt;
+
+&lt;p&gt;Chi mi conosce bene sa che su molte cose ho deciso di prenderle con un po’ più di leggerezza, senza fissarsi di essere questa persona o quell’altra. Senza pensare troppo ai se, ai ma.&lt;/p&gt;
+
+&lt;p&gt;Ho deciso di vivere un po’ le cose per come vengono, senza dargli troppo peso, prendendole con molta spensieratezza.&lt;/p&gt;
+
+&lt;p&gt;Lasciandomi scivolare addosso molti pensieri, emozioni, voglie, desideri, cose dette e cose nn dette. Tutte queste cose sarebbero dei pezzi che tanto nel puzzle non entrerebbero facilmente, ma verrebbero forzati, quindi perché dargli peso?&lt;/p&gt;
+
+&lt;p&gt;Non è facile, specialmente in una situazione in cui ci sentiamo sempre giudicati, osservati ed in competizione.&lt;/p&gt;
+
+&lt;p&gt;Ho capito questo perché in alcuni momenti ho dovuto fare chiarezza su quello che volevo, sugli obiettivi e chi volevo essere in questa fase della mia vita.&lt;/p&gt;
+
+&lt;p&gt;Su quello che per me contava molto, i miei valori.&lt;/p&gt;
+
+&lt;p&gt;Penso che sia naturale fare un po’ di introspezione, capire cosa va e cosa no. 
+Quali sono gli aspetti sui quali lavorare di più.&lt;/p&gt;
+
+&lt;p&gt;Bisogna farlo anche per capire che alla fine siamo fieri di noi stessi, di come siamo fatti e di dove stiamo andando. Tutto questo nonostante sentiamo che quel pezzo del puzzle manca e lo voremmo trovare disperatamente.&lt;/p&gt;
+
+&lt;p&gt;Alla fine trovarlo conta poco, perché sarà solo un pezzo in più, che non completerà sicuramente il puzzle.&lt;/p&gt;
+
+&lt;p&gt;Abbiamo solo speso energie nel cercare quello che secondo noi manca e non ci siamo goduti il tempo. Alla fine basta semplicemente rilassarsi, ed è veramente facile!&lt;/p&gt;
+
+&lt;p&gt;La cosa importante è conoscersi ed essere fieri, nonostante le cose sembrino andare diversamente.&lt;/p&gt;
+
+&lt;p&gt;Nonostante sembri che ci manchi qualcosa, quando in realtà abbiamo tutto il necessario.&lt;/p&gt;
+
+&lt;p&gt;🤙 🤙&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Arriva un momento un cui sembra che manchi qualcosa in quello che abbiamo.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/puzzle.jpg" /></entry><entry><title type="html">Innamorati dei due di picche</title><link href="http://localhost:4000/life/innamorati-dei-due-di-picche.html" rel="alternate" type="text/html" title="Innamorati dei due di picche" /><published>2019-01-18T00:00:00+01:00</published><updated>2019-01-18T00:00:00+01:00</updated><id>http://localhost:4000/life/innamorati-dei-due-di-picche</id><content type="html" xml:base="http://localhost:4000/life/innamorati-dei-due-di-picche.html">&lt;p&gt;Innamorati dei due di picche perché saranno la cosa che succederà più di frequente nella tua vita.&lt;/p&gt;
+
+&lt;p&gt;Il rischio di fallire spaventa tutti.&lt;/p&gt;
+
+&lt;p&gt;O che tu stia cercando di avviare una tua attività, o che tu stia cercando di laurearti, o che tu stia cercando di realizzare te stesso, o che tu stia cercando di inquadrarti dal punto di vista lavorativo, o che tu stia cercando di conquistare una ragazza, il fallimento non manca mai.&lt;/p&gt;
+
+&lt;p&gt;E’ li che ti aspetta!&lt;/p&gt;
+
+&lt;p&gt;Molti di noi hanno paura di raccontare i propri fallimenti. La vergogna è tanta e l’autostima si abbassa e non è mai bello!&lt;/p&gt;
+
+&lt;p&gt;Prendere un bel due di picche può insegnare molto di più di quanto si pensi. Il punto è &lt;strong&gt;saper cogliere l’insegnamento&lt;/strong&gt; cercando di vedere le cose da una prospettiva diversa dal normale.&lt;/p&gt;
+
+&lt;p&gt;Farlo non è facile, più che altro perché richiede una forte determinazione ed una bravura nel motivare se stessi.&lt;/p&gt;
+
+&lt;p&gt;È molto facile abbattersi, ed io sono il primo che lo fa, in realtà lo facciamo tutti.&lt;/p&gt;
+
+&lt;p&gt;Le domande sono sempre le stesse:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cosa non è andato come previsto?&lt;/li&gt;
+  &lt;li&gt;Cosa si sarebbe potuto fare per cambiare le cose?&lt;/li&gt;
+  &lt;li&gt;E se avessi fatto X cosa sarebbe successo?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Rifletti un secondo: ha senso farsi queste domande? Cosa cambierebbe? &lt;strong&gt;Nulla!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In realtà la vera cosa da osservare sarebbe: &lt;em&gt;Cosa ho imparato su di me?&lt;/em&gt;
+&lt;em&gt;Cosa mi ha insegnato questa lezione?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Piangere sul latte versato non ha senso, come non ha senso porsi le domande di cui sopra.&lt;/p&gt;
+
+&lt;p&gt;L’unica cosa che ha senso è pensare che le cose succedono e alla fine non puoi fare tanto per evitarlo.&lt;/p&gt;
+
+&lt;p&gt;Inoltre molto spesso le cose succedono non per causa nostra, ma per causa altrui, e qui si hanno veramente le mani legate.
+Nonostante tutto è molto comune vedersi come i capi espiatori di tutto.&lt;/p&gt;
+
+&lt;p&gt;Vedere una situazione negativa in un modo meno tragico, diciamo più formativo e positivo, non è facile e richiede un grande sforzo e una grande apertura mentale.&lt;/p&gt;
+
+&lt;p&gt;Richiede un grande sforzo il cercare di cogliere gli insegnamenti che abbiamo appreso quando l’unica cosa che vorremo fare è tornare indietro e riparare tutto. Magari vorremmo tornare indietro e non fare più quella scelta.&lt;/p&gt;
+
+&lt;p&gt;Vorremmo tornare indietro e non comportarci più in quella maniera.&lt;/p&gt;
+
+&lt;p&gt;Purtroppo &lt;strong&gt;non si può&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;La verità è che fallire ti da la possibilità di conoscere molti più aspetti di te di quanto lo possa fare l’avere successo. Se tutto nella tua vita andasse bene, al primo problema non sapresti come muoverti.&lt;/p&gt;
+
+&lt;p&gt;Un fallimento, una delusione, un due di picche da una ragazza, ti tempra per il futuro e ti rende molto più preparato e forte. Ti aiuta a conoscere te stesso meglio di qualunque altra cosa.&lt;/p&gt;
+
+&lt;p&gt;Quando hai successo in qualcosa, è molto difficile che cerchi di capire cosa potevi migliorare oppure cosa, al di là del successo, è andato male. Pensi solo a goderti l’entusiamo del momento.&lt;/p&gt;
+
+&lt;p&gt;Prendere consapevolezza dei propri fallimenti è un passo per cercare di capire cosa abbiamo imparato da essi. E’ un passo verso la consapevolezza che fallire è normale e che è altrettando normale che le cose non vadano come previsto.&lt;/p&gt;
+
+&lt;p&gt;Quello che mi capita di fare spesso è scrivere, e lo faccio anche per questo.&lt;/p&gt;
+
+&lt;p&gt;Scrivo le cose in cui io penso abbia fallito, riflettendo anche sugli insegnamenti ricevuti. Scrivere tutto questo mi aiuta a vedere quella particolare cosa con occhi diversi ed accorgermi che alla fine non è stato un vero e proprio fallimento.&lt;/p&gt;
+
+&lt;p&gt;Finisco l’articolo con un’immagine che rappresenta esattamente i due lati di una medaglia in una situazione di questo tipo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/fallimento.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fallire è normale.&lt;/p&gt;
+
+&lt;p&gt;Rimanere delusi è normale.&lt;/p&gt;
+
+&lt;p&gt;Fa tutto parte della vita.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quello che conta è da che parte stai e come vedi la realtà&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Stai dalla parte di quello che affoga oppure di quello che rimane a galla sapendo che alla fine, dopo tutto, è stato comunque un’esperienza bella e sta aspettando la prossima?&lt;/p&gt;
+
+&lt;p&gt;Ciao e alla prossima 😉&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Innamorati dei due di picche perché saranno la cosa che succederà più di frequente nella tua vita.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/fallire.jpg" /></entry><entry><title type="html">Una stanza vuota</title><link href="http://localhost:4000/life/stanza-vuota.html" rel="alternate" type="text/html" title="Una stanza vuota" /><published>2019-01-04T00:00:00+01:00</published><updated>2019-01-04T00:00:00+01:00</updated><id>http://localhost:4000/life/stanza-vuota</id><content type="html" xml:base="http://localhost:4000/life/stanza-vuota.html">&lt;p&gt;In questo periodo mi capita spesso di osservare me stesso al fine di capire come mi sento. In particolare cerco di mantenere l’attenzione rivolta dentro di me per scrutare i pensieri, le emozioni, i sentimenti che passano e che vanno a caratterizzare il mio stato d’animo in quel momento.&lt;/p&gt;
+
+&lt;p&gt;Osservarli senza che questi facciano effetto, è molto difficile!&lt;/p&gt;
+
+&lt;p&gt;Questa introspezione che spesso faccio, mi aiuta (o comunque dovrebbe) a capire se mi sento felice ed in caso negativo, cosa mi manca.&lt;/p&gt;
+
+&lt;p&gt;Non è per niente facile capire &lt;strong&gt;se sei felice&lt;/strong&gt; e sopratutto &lt;strong&gt;cosa ti manca&lt;/strong&gt;, perché entrare in contatto con i propri bisogno e valori, non è una passeggiata, e non è una cosa che spesso ti viene insegnata.&lt;/p&gt;
+
+&lt;p&gt;Potresti tranquillamente non badare ad un tuo bisogno profondo, che in questo momento non viene soddisfatto, e quindi non sentirti sereno/a e non capirne il motivo, anche se apparentemente tutto va per il verso giusto.&lt;/p&gt;
+
+&lt;p&gt;Sono la classica persona che cerca di capire dove stia la felicità e certe volte si chiede se realmente esista.&lt;/p&gt;
+
+&lt;p&gt;In particolare, pensare alla felicità come quella cosa che ti fa uscire di casa saltellando e sorridendo, è sbagliato secondo me, questa situazione la puoi ritrovare solo nei film.&lt;/p&gt;
+
+&lt;p&gt;Non ho ancora capito di preciso cosa sia la felicità, e forse non sono l’unico, ma c’è un modo di vederla che mi soddisfa molto.&lt;/p&gt;
+
+&lt;p&gt;Una cosa che si potrebbe avvicinare alla felicità potrebbe essere:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quello stato in cui ti senti in armonia con i tuoi sentimenti.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vedendola così, mi è molto più facile dargli un aspetto, una forma che posso constantemente utilizzare per analizzare me stesso&lt;/p&gt;
+
+&lt;p&gt;“&lt;strong&gt;&lt;em&gt;Davide, ti senti in aromonia con i tuoi sentimenti?&lt;/em&gt;&lt;/strong&gt;” (No!)&lt;/p&gt;
+
+&lt;p&gt;Questo stato di armonia, di completa accettazione e di consapevolezza, ti permetterebbe di stare in una stanza vuota, completamente vuota. Una stanza senza distrazioni. Una stanza che non ti potrebbe dare nulla per modificare il tuo stato d’animo.&lt;/p&gt;
+
+&lt;p&gt;Questo stato ti permetterebbe di stare seduto/a al centro di questa stanza, osservarti e sentirti completamente felice e soddisfatto/a.&lt;/p&gt;
+
+&lt;p&gt;Sembra assurdo, ma secondo me non lo è poi così tanto.&lt;/p&gt;
+
+&lt;p&gt;D’altronde questa tipologia di esperienza è molto simile a quella che scelgono di vivere i &lt;strong&gt;monaci eremiti&lt;/strong&gt; che si allontanao dalla società, andando in luoghi remoti.&lt;/p&gt;
+
+&lt;p&gt;Diciamo che è una situazione che considero come punto di riferimento, non perché voglia diventare un monaco eremita, ma perché voglio semplicemente essere felice con me stesso, prima di tutto.&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">In questo periodo mi capita spesso di osservare me stesso al fine di capire come mi sento. In particolare cerco di mantenere l’attenzione rivolta dentro di me per scrutare i pensieri, le emozioni, i sentimenti che passano e che vanno a caratterizzare il mio stato d’animo in quel momento.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/empty-room.jpg" /></entry><entry><title type="html">Come essere ricchi</title><link href="http://localhost:4000/life/come-essere-ricco.html" rel="alternate" type="text/html" title="Come essere ricchi" /><published>2018-12-19T00:00:00+01:00</published><updated>2018-12-19T00:00:00+01:00</updated><id>http://localhost:4000/life/come-essere-ricco</id><content type="html" xml:base="http://localhost:4000/life/come-essere-ricco.html">&lt;p&gt;Se ora ti facessi una domanda:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Secondo te la ricchezza dove sta?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Probabilmente la prima cosa che penseresti è: &lt;strong&gt;i soldi&lt;/strong&gt;. Tanti soldi.&lt;/p&gt;
+
+&lt;p&gt;Il fatto di essere ricchi viene associato direttamente alle proprie possibilità economiche. Più si è ricchi, più si hanno soldi e più la vita ha la possibilità di andare per il verso giusto.&lt;/p&gt;
+
+&lt;p&gt;Più o meno.&lt;/p&gt;
+
+&lt;p&gt;Il concetto di ricchezza è il classico esempio che, quando viene intavolato nella nostra testa, genera sentimenti di: ansia, disperazione, inappagamento e chi più ne ha più ne metta.&lt;/p&gt;
+
+&lt;p&gt;Infatti io credo che i soldi siano semplicemente un mezzo per soddisfare un nostro bisogno profondo e la ricchezza ne è la causa, visto che più si hanno soldi e più si è ricchi, in teoria.&lt;/p&gt;
+
+&lt;p&gt;In teoria perché, magari, di conseguenza al fatto di possedere un patrimonio economico elevato, speriamo di ricevere più considerazione e quindi di soddisfare il bisogno interiore di &lt;strong&gt;essere considerati&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questo non fa altro che confermare che il fatto di essere ricchi, non è tanto possedere molti soldi, ma l’essere considerati, avere delle relazioni che siano di valore nella nostra vita.&lt;/p&gt;
+
+&lt;p&gt;Non sono l’unico scemo a pensare questa cosa.&lt;/p&gt;
+
+&lt;p&gt;C’è uno studio, &lt;strong&gt;dell’Università di Harvard&lt;/strong&gt;, che va avanti da 75 anni ed ha seguito ed analizzato la vita di più di 700 persone (dall’età di 19 anni circa, fino ai 90 ed oltre) ed ha scoperto una cosa sensazionale.&lt;/p&gt;
+
+&lt;p&gt;In particolare, attraverso dei questionari, ha seguito l’evoluzione della vita di due gruppi di persone.&lt;/p&gt;
+
+&lt;p&gt;Il primo gruppo proveniente da una situazione benestante, quindi una famiglia tranquilla, un quartiere tranquillo dove vivere.&lt;/p&gt;
+
+&lt;p&gt;L’altro gruppo invece da una situazione molto complicata.&lt;/p&gt;
+
+&lt;p&gt;In entrambi i gruppi c’erano persone che hanno iniziato la carriera da studente, laureandosi, chi alla Harvard e chi in altre università.&lt;br /&gt;
+In entrambi i gruppi c’erano persone che non avevano avuto una vita poi così notevole.&lt;br /&gt;
+In entrambi i gruppi c’erano persone che stavano male, persone con problemi economici, persone felici.&lt;br /&gt;
+In entrambi i gruppi c’erano persone che si sentivano &lt;strong&gt;profondamente sole&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Andando quindi a confrontare la situazione delle persone che si sentivano felici e soddisfatte della propria vita, con quelle che si sentivano profondamente sole (e la percentuale è molto elevata), è uscito fuori che avere una vita in cui si hanno relazioni di valore, è assolutamente l’elisir della felicità.&lt;/p&gt;
+
+&lt;p&gt;Non solo, ma lo studio fa notare che le persone che si sentono soddisfatte delle proprie relazioni, sono quelle più in salute, più energiche e appunto più felici.&lt;/p&gt;
+
+&lt;p&gt;Per quanto possa sembrare assurdo, avere relazioni di valore, non costa poi nulla, l’importante è prendersi l’impegno di coltivarle.&lt;/p&gt;
+
+&lt;p&gt;In particolare è quell’aspetto che ti permette di capire se sei soddisfatto della tua vita oppure no.&lt;/p&gt;
+
+&lt;p&gt;In particolare è quell’aspetto che per me sta a significare &lt;strong&gt;essere ricchi&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Se ora ti facessi una domanda:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/rich.jpg" /></entry><entry><title type="html">Dov’è la tua casa?</title><link href="http://localhost:4000/life/sentirsi-a-casa.html" rel="alternate" type="text/html" title="Dov'è la tua casa?" /><published>2018-12-10T00:00:00+01:00</published><updated>2018-12-10T00:00:00+01:00</updated><id>http://localhost:4000/life/sentirsi-a-casa</id><content type="html" xml:base="http://localhost:4000/life/sentirsi-a-casa.html">&lt;p&gt;L’altro giorno ero su TED e stavo guardando un video, il titolo era: &lt;a href=&quot;https://www.ted.com/talks/pico_iyer_where_is_home&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Where is the home?&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Il ragazzo che parla racconta la sua vita. Racconta il fatto che ha viaggiato tantissimo e che, nonostante tutti i posti che abbia visto, nonostante tutto il tempo che abbia passato in questi posti, nessuno potrebbe chiamarlo &lt;strong&gt;casa&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mi ha fatto riflettere molto. Sono sempre stato abituato a considerare la mia casa il luogo in cui vivi. Il luogo in cui dormi, mangi, ma mi sono accorto che non è così.&lt;/p&gt;
+
+&lt;p&gt;Ad essere sinceri, è da molto tempo che rifletto su questa cosa e sicuramente ho capito che considerare casa il posto dove hai le tue cose, dove passi la maggior parte del tuo tempo, è sbagliato, almeno per me.&lt;/p&gt;
+
+&lt;p&gt;Questo modo di vedere mi è chiarissimo, a tal punto che l’ho dovuto scrivere per tenerlo sempre con me, per renderlo reale.&lt;/p&gt;
+
+&lt;p&gt;Ovviamente non ho riflettuto solamente su &lt;strong&gt;“&lt;em&gt;dove non è la mia casa&lt;/em&gt;“&lt;/strong&gt;, ma sopratutto su: dov’è.&lt;/p&gt;
+
+&lt;p&gt;Ammetto che la risposta che mi sono dato è allo stesso tempo ovvia e determinante e nel momento in cui l’ho capito, mi è sembrato di riuscire ad analizzare meglio la mia situazione e capire cosa c’è di giusto e cosa c’è di sbagliato.&lt;/p&gt;
+
+&lt;p&gt;Insomma, ho avuto la percezione di aver trovato una regola da seguire per riuscire a sentirmi a casa.&lt;/p&gt;
+
+&lt;p&gt;Il ragazzo del video da questa definizione:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La casa è quel posto dove rimani&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ora detta così può sembrare banale e poco comprensibile, però se ci rifletti per un secondo, rimanere in un posto non significa stare li e basta, significa &lt;strong&gt;“stare li e non desiderare di stare altrove”&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;L’aver capito questa cosa mi ha permesso di arrivare alla famosa regola che ho citato sopra.&lt;/p&gt;
+
+&lt;p&gt;Ho capito dov’è la mia casa:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La mia casa è quel posto dove rimani e &lt;strong&gt;dove sei te stesso&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Potrebbe sembrare scontata come regola, e forse lo è, ma non è poi così tanto facile da soddisfare!&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">L’altro giorno ero su TED e stavo guardando un video, il titolo era: Where is the home?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/home.jpg" /></entry><entry><title type="html">Ho imparato ad apprezzare il tramonto</title><link href="http://localhost:4000/life/il-tramonto.html" rel="alternate" type="text/html" title="Ho imparato ad apprezzare il tramonto" /><published>2018-12-08T00:00:00+01:00</published><updated>2018-12-08T00:00:00+01:00</updated><id>http://localhost:4000/life/il-tramonto</id><content type="html" xml:base="http://localhost:4000/life/il-tramonto.html">&lt;p&gt;Ho imparato ad apprezzare il tramonto ed i suoi colori. Questa è una cosa nuova per me e mi sta affascinando come se fossi un bambino.&lt;/p&gt;
+
+&lt;p&gt;Il momento in cui guardo il sole tramontare e sparire dietro l’orizzonte, è decisamente il momento in cui sono più consapevole e presente.&lt;/p&gt;
+
+&lt;p&gt;Consapevole che un altro giorno è passato ed il fatto che il sole stia sparendo ne è la dimostrazione.
+La cosa che mi affascina è proprio questa.&lt;/p&gt;
+
+&lt;p&gt;Il senso di rilassamento che provo è veramente elevato. Lo riesco a percepire ed è bellissimo.&lt;/p&gt;
+
+&lt;p&gt;Durante la giornata è difficilissimo essere così presente e rilassato, ma in quel momento sento che i nervi si rilassano ed il respiro si fa sentire.&lt;/p&gt;
+
+&lt;p&gt;Nel momento in cui sono sulla riva ad osservare il tramonto sento scaricarsi tutta la tensione della giornata.&lt;/p&gt;
+
+&lt;p&gt;Arriva una valanga di pensieri per distrarmi, ma ho la possibilità di osservarla. Ne prendo le distanze e la lascio andare perché in quel momento il tramonto è più importante e non voglio perdermelo.&lt;/p&gt;
+
+&lt;p&gt;Riuscire a far scorrere i pensieri, osservandoli, senza che questi ti condizionino non è facile ma non è impossibile ed io ho deciso di partire dal tramonto per capire come fare.&lt;/p&gt;
+
+&lt;p&gt;In questo periodo poi i tramonti sono bellissimi, sarà la temperatura, sarà che è arrivato l’inverno con il freddo, saranno tutta una serie di fattori, ma sono sempre unici.&lt;/p&gt;
+
+&lt;p&gt;Ho imparato ad apprezza il tramonto, ma capacitarmi di questa cosa mi da dispiacere.&lt;/p&gt;
+
+&lt;p&gt;Mi da dispiacere perché molto spesso abbiamo dietro l’angolo proprio quella cosa che ci potrebbe essere molto utile e non la usiamo.
+Diamo valore alle cose belle ed importanti troppo tardi perché veniamo rapiti dal vortice di pensieri dal quale è difficilissimo uscirne.&lt;/p&gt;
+
+&lt;p&gt;E’ difficilissimo prendere le distanze da questi ed osservarli (e magari salutarli).&lt;/p&gt;
+
+&lt;p&gt;Guardare il tramonto mi da proprio questa possibilità, uscire da questo vortice che durante tutta la giornata ti prende e ti porta su e giù senza che te ne accorgi.&lt;/p&gt;
+
+&lt;p&gt;Difficilmente riuscirò a non guardare il prossimo tramonto!&lt;/p&gt;</content><author><name>Davide</name></author><category term="life" /><summary type="html">Ho imparato ad apprezzare il tramonto ed i suoi colori. Questa è una cosa nuova per me e mi sta affascinando come se fossi un bambino.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/sunrise.jpg" /></entry><entry><title type="html">Questo blog è stato un fallimento</title><link href="http://localhost:4000/blog/un-blog-un-fallimento.html" rel="alternate" type="text/html" title="Questo blog è stato un fallimento" /><published>2018-12-06T00:00:00+01:00</published><updated>2018-12-06T00:00:00+01:00</updated><id>http://localhost:4000/blog/un-blog-un-fallimento</id><content type="html" xml:base="http://localhost:4000/blog/un-blog-un-fallimento.html">&lt;p&gt;Ho aperto questo blog con l’idea di condividere qualcosa di interessante che riguardasse in particolare quello che &lt;strong&gt;&lt;em&gt;avrei voluto fare&lt;/em&gt;&lt;/strong&gt; ma che chiaramente non sono riuscito a fare.
+L’idea era quella di documentare i progressi che avrei fatto per arrivare al mio obiettivo e cioè, quello di essere &lt;strong&gt;&lt;u&gt;un nomade digitiale&lt;/u&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In particolare avrei dovuto avviare dei piccoli progetti che mi avrebbero permesso di essere indipendente economicamente e libero quando in realtà io, grazie al mio lavoro, lo sono già (pensa quindi che scemo).&lt;/p&gt;
+
+&lt;p&gt;Non soddisfatto, o forse incosciente di questa cosa, ho pensato di vedere la mia situazione come priva di questa caratteristica.&lt;/p&gt;
+
+&lt;p&gt;Mi sono detto:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Perché non pubblicare un post al giorno dalla durata di lettura di un minuto dove documentare tutto questo?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hai presente quando fai il passo più lungo della gamba? Ecco, l’ultimo post, prima di questo, risale al 7 Luglio.&lt;/p&gt;
+
+&lt;p&gt;Morale della favola, questo blog è stato un fallimento perché effettivamente non era nato per documentare il mio obiettivo, che ora sinceramente non lo sento poi così tanto &lt;strong&gt;mio&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Era nato per il semplice motivo che mi sentivo solo e avere un posto online dove poter esprimere le mie idee e pensieri sperando che qualcuno per sbaglio li leggesse, mi piaceva e mi piace tutt’ora.&lt;/p&gt;
+
+&lt;p&gt;Lo so che può sembrare deprimente, e forse lo è, ma almeno è la verità.&lt;/p&gt;
+
+&lt;p&gt;Il fallimento è avvenuto proprio per questo, non ho visto il blog per quello che realmente era, andandolo ad inquadrare in un contesto in cui non riuscivo a starci, ed infatti &lt;strong&gt;non sono un nomade digitale&lt;/strong&gt;, altrimenti avresti già visto come copertina
+una mia foto, con il portatile sulle gambe, in riva ad una spiaggia esotica, bevendo un cocktail da una doce di cocco. Non è così.&lt;/p&gt;
+
+&lt;p&gt;Tornando al perché questo blog è nato. Il motivo sostanziale è che volevo avere un posto dove potermi esprimere liberamente senza avere una linea definita, infatti non so minimamente quello che continuerò a scrivere.&lt;/p&gt;
+
+&lt;p&gt;Il punto è che sentirmi libero di poter scrivere qui quello che mi passa per la testa, mi da la giusta motivazione di accendere il pc, aprire il programma e scrivere un post.&lt;/p&gt;
+
+&lt;p&gt;Inoltre, mi permette di sfogarmi, cosa per niente banale e da non sottovalutare.&lt;/p&gt;
+
+&lt;p&gt;Se dovessi imporre a me stesso di creare un blog dove dover scrivere qualcosa di specifico senza sapere a priori, più o meno, come fare, fallirei prima di iniziare.&lt;/p&gt;
+
+&lt;p&gt;Un’altra verità è che mi sono sempre piaciuti quei blog (anche video) dove si parla di se stessi e dove chi legge (o vede) conosce un pò meglio chi scrive (o registra), anche perché di blog (o video) &lt;strong&gt;professionali&lt;/strong&gt; internet ne è pieno.&lt;/p&gt;
+
+&lt;p&gt;Alla prossima!
+Davide&lt;/p&gt;</content><author><name>Davide</name></author><category term="blog" /><summary type="html">Ho aperto questo blog con l’idea di condividere qualcosa di interessante che riguardasse in particolare quello che avrei voluto fare ma che chiaramente non sono riuscito a fare. L’idea era quella di documentare i progressi che avrei fatto per arrivare al mio obiettivo e cioè, quello di essere un nomade digitiale.</summary></entry><entry><title type="html">About Taalk #2: Sviluppo MVP</title><link href="http://localhost:4000/side-project/about-taalk-mvp.html" rel="alternate" type="text/html" title="About Taalk #2: Sviluppo MVP" /><published>2018-07-11T00:00:00+02:00</published><updated>2018-07-11T00:00:00+02:00</updated><id>http://localhost:4000/side-project/about%20taalk-mvp</id><content type="html" xml:base="http://localhost:4000/side-project/about-taalk-mvp.html">&lt;p&gt;Vediamo in questo veloce post cosa sarà l’MVP di Taalk e cosa potrà fare un utente che deciderà di registrarsi.
+Prima di tutto, se non sai cos’è un MVP, &lt;a href=&quot;https://it.wikipedia.org/wiki/Minimum_Viable_Product&quot; target=&quot;_blank&quot;&gt;leggi qui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Per quanto riguarda &lt;strong&gt;Taalk&lt;/strong&gt; l’idea iniziale era quella di utilizzare come MVP una semplice landing page che permettesse la registrazioni degli utenti, ma la cosa poi finiva li e gli utenti registrati non avrebbero potuto fare più nulla, per cui non
+sarebbe stato molto utile in quanto non avrei potuto capire la validità del servizio.&lt;/p&gt;
+
+&lt;p&gt;Ho deciso di sviluppare un qualcosa di un pò più concreto, una piccola applicazione web (te pareva).
+Gran parte delle cose che leggerai nella lista qui sotto le ho concluse in circa &lt;strong&gt;7 giorni&lt;/strong&gt; con un totale di &lt;strong&gt;30&lt;/strong&gt; ore di lavoro. (non male no? alla fine ne è valsa la pena)&lt;/p&gt;
+
+&lt;p&gt;Il come lo vedremo successivamente, ora vediamo cosa permetterà di fare la prima versione di Taalk (v1):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Registrazione utente tramite: Facebook, Twitter, Google ed email (forse)&lt;/li&gt;
+  &lt;li&gt;Completamento profilo personale con varie info come lavoro, biografia, location ecc
+    &lt;ul&gt;
+      &lt;li&gt;Utili per conoscere meglio l’interlocutore&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Invio richiesta ad un altro utente preso dalla bacheca dove verranno mostrati tutti gli utenti registrati
+    &lt;ul&gt;
+      &lt;li&gt;La richiesta dovrà prevedere una data proposta (quando si vuole effettuare la chiamata) ed una nota (magari di cosa si vorrebbe parlare)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Conferma per email&lt;/li&gt;
+  &lt;li&gt;Accesso ad una stanza per parlare
+    &lt;ul&gt;
+      &lt;li&gt;Credo che inizialmente sarà solamente audio.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tutti gli aspetti un pò più tecnici, ma non troppo, li spiegherò in un prossimo post.&lt;/p&gt;
+
+&lt;p&gt;Se non sai cos’è Taalk, male male, &lt;a href=&quot;http://dailyminute.sprintstudio.co/journal/public-side-project-taalk.html&quot;&gt;leggi qui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Per il momento è tutto 👋&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;pssssst&quot;&gt;Pssssst&lt;/h1&gt;
+
+&lt;p&gt;Se non vuoi perderti i prossimi aggiornamenti riguardanti &lt;strong&gt;Taalk&lt;/strong&gt; (e non solo), allora segui le mie storie cliccando sul bottone qui sotto&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;btn btn-shadow pulse&quot; href=&quot;https://www.instagram.com/stories/highlights/17848900732251658/&quot; target=&quot;_blank&quot;&gt;
+Segui le mie storie su Instagram
+&lt;/a&gt;&lt;/p&gt;</content><author><name>Davide</name></author><category term="side-project" /><category term="education" /><category term="business" /><summary type="html">Vediamo in questo veloce post cosa sarà l’MVP di Taalk e cosa potrà fare un utente che deciderà di registrarsi. Prima di tutto, se non sai cos’è un MVP, leggi qui.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/about-taalk.jpg" /></entry></feed>

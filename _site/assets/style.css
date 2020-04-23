@@ -4,6 +4,12 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
+/*
+* UI utils
+*/
+.mt-2 {
+  margin-top: 20px; }
+
 header {
   padding: 156px 0 100px; }
 
@@ -25,7 +31,7 @@ footer {
 
 .yo,
 .post-title {
-  font-size: 150px !important;
+  font-size: 80px !important;
   font-weight: bolder;
   align-content: center;
   text-align: center; }
@@ -71,20 +77,34 @@ a:hover {
   border-bottom-width: 2px; }
 
 /**
-* Forms
-**/
-form legend {
-  display: inline-block; }
-form .form-control {
-  background-color: transparent;
-  border: 2px solid #75f94f;
-  border-radius: 0px; }
+  * Forms
+  **/
+form {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+  padding: 30px; }
+  form legend {
+    display: inline-block;
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-weight: 100; }
+  form .form-control {
+    background-color: transparent;
+    border: 2px solid #75f94f;
+    border-radius: 0px;
+    color: white !important; }
+    form .form-control:focus {
+      background-color: transparent;
+      box-shadow: none;
+      border: 2px solid #75f94f; }
 
 /**
-* Buttons
-**/
+  * Buttons
+  **/
 .btn-primary {
-  background-color: #75f94f;
+  background-color: #75f94f !important;
   border-radius: 0px;
   border: none;
   color: #272727; }
@@ -93,6 +113,9 @@ footer a {
   text-decoration: underline; }
 
 @media (max-width: 576px) {
+  header {
+    padding-bottom: 20px; }
+
   .yo,
   .post-title {
     font-size: 40px !important;
@@ -105,6 +128,13 @@ footer a {
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 20px; }
+
+  body .scroll-border {
+    margin-left: none;
+    margin-right: none;
+    margin-top: 50px;
+    border: none;
+    border-width: 0px; }
 
   #contact .btn,
   #contact a {

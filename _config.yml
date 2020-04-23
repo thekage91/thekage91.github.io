@@ -22,9 +22,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Dailyminute'
-description:	       'daily (si spera) 1 minute blog (sicuramente)'
-author:              'Davide'
+title:		           'An Indie Hacker blog'
+description:	       ''
+author:              'Davide Sicignani'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

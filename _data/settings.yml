@@ -25,11 +25,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Next'
-  previous_page: 'Older'
+  next_page: 'Prossima'
+  previous_page: 'Precedente'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Sentiti lib!'
 
-related_posts: 'Read also:'
+related_posts: 'Leggi anche:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: ''
