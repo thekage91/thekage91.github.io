@@ -7,6 +7,27 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Esistono solo problemi migliori</title>
+				
+					<dc:creator>Davide</dc:creator>
+				
+				
+					<description>&lt;ul&gt;
+  &lt;li&gt;Che differenza c’è tra Warren Buffet e Mario, un ragazzo povero?&lt;/li&gt;
+  &lt;li&gt;Introduzione&lt;/li&gt;
+  &lt;li&gt;Cosa sono i problemi&lt;/li&gt;
+  &lt;li&gt;Ci sono solo problemi migliori&lt;/li&gt;
+  &lt;li&gt;La felicità&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				
+				<pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/life/saper-vivere-la-leggerezza.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/saper-vivere-la-leggerezza.html</guid>
+			</item>
+		
+			<item>
 				<title>Siamo il risultato delle nostre esperienze</title>
 				
 					<dc:creator>Davide</dc:creator>
@@ -141,21 +162,6 @@ Prima di tutto, se non sai cos’è un MVP, &lt;a href=&quot;https://it.wikipedi
 				<pubDate>Wed, 11 Jul 2018 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/side-project/about-taalk-mvp.html</link>
 				<guid isPermaLink="true">http://localhost:4000/side-project/about-taalk-mvp.html</guid>
-			</item>
-		
-			<item>
-				<title>Side project #1: Taalk</title>
-				
-					<dc:creator>Davide</dc:creator>
-				
-				
-					<description>&lt;p&gt;Qualche post fa, ho lanciato una sfida a me stesso: &lt;strong&gt;&lt;a href=&quot;http://dailyminute.sprintstudio.co/journal/sviluppare-un-side-project-in-pubblico.html&quot;&gt;Sviluppare un side-project in pubblico&lt;/a&gt;&lt;/strong&gt; dal primo giorno, condividendo i progressi qui e su &lt;a href=&quot;https://www.instagram.com/davidesicignani/&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 25 Jun 2018 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/public-side-project-taalk.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/public-side-project-taalk.html</guid>
 			</item>
 		
 	</channel>
